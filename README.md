@@ -12,5 +12,5 @@ You should attend an event or contact GemCity TECH if you want to:
 - Expand your network of technology professionals 
 - Find like minded people to collaborate on your project
 - Deepen your technology knowledge by sharing it at an upcoming event
-- Speak to GemCity TECH leaders about starting your own community in the GemCity TECH family
+- Speak to [GemCity TECH leaders](https://www.meetup.com/gem-city-tech/members/?op=leaders) about starting your own community in the GemCity TECH family
 - Grow local industry by sponsoring GemCity TECH 
