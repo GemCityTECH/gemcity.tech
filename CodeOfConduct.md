@@ -1,5 +1,6 @@
 ---
 layout: default
+title: GemCity TECH - Code of Conduct
 ---
 <span style="display: flex; align-items: center;">  
   <img src="GCTSquareWhiteForeground.png" alt="GemCity TECH logo" style="width: 100px; margin-right: 20px;" />
