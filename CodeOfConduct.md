@@ -1,6 +1,6 @@
 layout: page
 title: "Code of Conduct"
-permalink: /about/Code-Of-Conduct
+permalink: /CodeOfConduct
 
 # Gem City Tech Code of Conduct  
 
