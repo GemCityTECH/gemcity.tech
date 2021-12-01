@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-Gem City Tech Code of Conduct  
+**GemCity TECH** Code of Conduct  
 
-We expect everyone in our space to abide by this Code of Conduct. This includes event attendees, community organizers, sponsors, guests, and board members. Violation of this Code of Conduct could result in being removed from the Gem City Tech community and no longer having access to the associated benefits.
+We expect everyone in our space to abide by this Code of Conduct. This includes event attendees, community organizers, sponsors, guests, and board members. Violation of this Code of Conduct could result in being removed from the **GemCity TECH** community and no longer having access to the associated benefits.
 If you witness a violation of our Code of Conduct, please notify us. Always feel empowered to say something and please escalate any concerns immediately to someone on the staff or leadership team or email help@gemcity.tech.  
 
 Welcome Everyone  
@@ -18,7 +18,7 @@ Please pick up after yourself. Treat communal spaces with respect. If you move s
 
 Harassment Is Not Tolerated  
 
-We do not tolerate harassment of any kind. Unwanted texting, calling, emailing, following, stalking, badgering, intimidating, or threatening will result in being removed from the Gem City Tech community.  
+We do not tolerate harassment of any kind. Unwanted texting, calling, emailing, following, stalking, badgering, intimidating, or threatening will result in being removed from the **GemCity TECH** community.  
 
 Harassment also includes sexual harassment in any form such as teasing, jokes, innuendos, images, gestures, touching, grabbing, or giving gifts of a sexual or unwanted nature.  
 
@@ -26,11 +26,11 @@ If someone tries to move on from the conversation, let them go. If someone expli
 
 Professional Environment  
 
-Gem City Tech is a community of event attendees, community organizers, sponsors, guests, and board members. This is a professional environment and should be treated as such. These are your peers, so please treat each other like peers. Be courteous, kind, and respectful at all times.  
+**GemCity TECH** is a community of event attendees, community organizers, sponsors, guests, and board members. This is a professional environment and should be treated as such. These are your peers, so please treat each other like peers. Be courteous, kind, and respectful at all times.  
 
 Diversity Encouraged & Celebrated  
 
-Gem City Tech is committed to building a diverse and inclusive community and believe doing so will lead to better overall collaboration.
+**GemCity TECH** is committed to building a diverse and inclusive community and believe doing so will lead to better overall collaboration.
 
 Pay It Forward  
 
@@ -47,4 +47,4 @@ Smoking, vaping, or chewing is not allowed in our space.
 Do not take other people’s physical property. Do not take other people’s intellectual property…but, we encourage you to contribute to open source.  
 
 
-The Gem City Tech Code of Conduct is a living document managed by our community. If you have any suggestions, please feel free to contact us. 
+The **GemCity TECH** Code of Conduct is a living document managed by our community. If you have any suggestions, please feel free to contact us. 
