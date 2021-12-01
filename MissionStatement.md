@@ -1,5 +1,6 @@
 ---
 layout: default
+title: GemCity TECH - Mission Statement
 ---
 
 <span style="display: flex; align-items: center;">  
