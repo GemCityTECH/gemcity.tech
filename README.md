@@ -1,4 +1,4 @@
-<img src="GCTSquareWhiteForeground.png" alt="GemCity TECH logo" style="width: 100px;" /> [Mission Statement](/MissionStatement) [Code of Conduct (/CodeOfConduct) 
+<img src="GCTSquareWhiteForeground.png" alt="GemCity TECH logo" style="width: 100px;" /> <a href="./MissionStatement">Mission Statement</a> <a href="./CodeOfConduct">Code of Conduct</a> 
      
 ## What's new
   - [Upcoming Meetup events](https://www.meetup.com/gem-city-tech/events/calendar/)
