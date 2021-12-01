@@ -1,8 +1,9 @@
----
+---  
 layout: page  
 title: "Code of Conduct"  
 permalink: /CodeOfConduct  
----
+---  
+
 # Gem City Tech Code of Conduct  
 
 We expect everyone in our space to abide by this Code of Conduct. This includes event attendees, community organizers, sponsors, guests, and board members. Violation of this Code of Conduct could result in being removed from the Gem City Tech community and no longer having access to the associated benefits.
