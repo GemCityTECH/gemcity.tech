@@ -1,6 +1,5 @@
 ---  
-theme: jekyll-theme-cayman  
-layout: page  
+layout: default  
 title: "Code of Conduct"  
 permalink: CodeOfConduct  
 ---
