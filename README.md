@@ -1,7 +1,7 @@
 <p>
      <img src="GCTSquareWhiteForeground.png"
      alt="GemCity TECH logo"
-     style="width: 100px;" />  
+     style="width: 100px;" />
 \[ [Mission Statement](/MissionStatement) \]  \[ [Code of Conduct](/CodeOfConduct) \]  
 </p>
      
