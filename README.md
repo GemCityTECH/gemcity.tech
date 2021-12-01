@@ -1,6 +1,6 @@
 ## GemCity TECH
 
-[Mission Statement](/MissionStatement) | [Code of Conduct](/CodeOfConduct)
+[Mission Statement](/MissionStatement)  [Code of Conduct](/CodeOfConduct)
 
 ## What's new
   - [Upcoming Meetup events](https://www.meetup.com/gem-city-tech/events/calendar/)
