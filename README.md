@@ -1,7 +1,7 @@
 
 
 <span style="display: flex; align-items: center;">  
-  <img src="GCTSquareWhiteForeground.png" alt="GemCity TECH logo" style="width: 100px;" />
+  <img src="GCTSquareWhiteForeground.png" alt="GemCity TECH logo" style="width: 100px; margin-right: 20px;" />
   <a href="./MissionStatement"> Mission Statement</a> |
   <a href="./CodeOfConduct">Code of Conduct</a>
 </span>
