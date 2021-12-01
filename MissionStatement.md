@@ -1,7 +1,13 @@
 ---
 layout: default
 ---
-## **GemCity TECH** Mission Statement  
+
+<span style="display: flex; align-items: center;">  
+  <img src="GCTSquareWhiteForeground.png" alt="GemCity TECH logo" style="width: 100px; margin-right: 20px;" />
+  <a href="./"> Home</a> |
+  <strong> Mission Statement</strong> |
+  <a href="./CodeOfConduct">Code of Conduct</a>
+</span>
 
 **GemCity TECH**’s mission is to grow the local industry and the community by providing a centralized destination for technical training, workshops and collaborating. We are the destination for those who are passionate about a wide range of technology topics and we provide a community space that encourages diversity, knowledge sharing, and collaboration through meetups, workshops, collaboration sessions and conferences.
 
