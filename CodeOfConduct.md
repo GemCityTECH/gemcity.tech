@@ -1,7 +1,5 @@
----  
-layout: default  
-title: "Code of Conduct"  
-permalink: CodeOfConduct  
+---
+layout: default
 ---
 Gem City Tech Code of Conduct  
 
