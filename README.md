@@ -1,4 +1,8 @@
-## GemCity TECH
+<p><img src="GCTSquareWhiteForeground.png"
+     alt="GemCity TECH logo"
+     style="width: 100px;" /></p>
+  
+## GemCity TECH  
 
 \[ [Mission Statement](/MissionStatement) \]  \[ [Code of Conduct](/CodeOfConduct) \]
 
