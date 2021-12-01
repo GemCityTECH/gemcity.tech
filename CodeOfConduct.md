@@ -2,7 +2,7 @@
 theme: jekyll-theme-cayman  
 layout: page  
 title: "Code of Conduct"  
-permalink: /CodeOfConduct  
+permalink: CodeOfConduct  
 ---
 Gem City Tech Code of Conduct  
 
