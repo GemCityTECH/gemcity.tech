@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-# **GemCity TECH** Code of Conduct  
-
 We expect everyone in our space to abide by this Code of Conduct. This includes event attendees, community organizers, sponsors, guests, and board members. Violation of this Code of Conduct could result in being removed from the **GemCity TECH** community and no longer having access to the associated benefits.
 If you witness a violation of our Code of Conduct, please notify us. Always feel empowered to say something and please escalate any concerns immediately to someone on the staff or leadership team or email help@gemcity.tech.  
 
