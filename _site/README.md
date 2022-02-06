@@ -24,7 +24,7 @@ Currently, all meetings are at the Innovation Hub at the Downtown Dayton Arcade 
 [**The Innovation Hub**  
 31 South Main Street  Dayton, OH](https://www.google.com/maps/place/31+S+Main+St,+Dayton,+OH+45402/@39.758539,-84.192227,17z/data=!3m1!4b1!4m5!3m4!1s0x88408153e7e708e5:0x14440aead56abdc0!8m2!3d39.758539!4d-84.192227)
 
-All events are free and open to the public.  
+All user groups are free and open to the public.  
 All events are listed on the [GemCity Tech Meetup.com Events calandar](https://www.meetup.com/gem-city-tech/events/calendar/)
 - If you have an interest in tech, join us at an upcoming event  
 - Have an idea for a tech community, let's talk about starting one up 
