@@ -14,8 +14,8 @@ User Group | Organizer | Meeting Time
 --- | --- | ---
 **Dayton Web Developers** - general topics around being a modern web developer | Allen May | 1st Wednesdays @6pm
 **Dayton Dynamic Languages** - Casual discussions and demonstrations that lean towards Ruby/Rails, Python/Django, Scheme, Lisp & Smalltalk | Catherine Devlin | 2nd Wednesdays @7pm
-**Dayton .NET Developers** - Helping software developers, technical leads, and managers keep in touch with .NET-related technologys. | Hanen Alkhafaji | 2nd Thursdays @6pm
-**Gem City Game Developers** - Exploring all topics around gaming and the gamining industry. We explore design, art, programming, digital and non-digital game topics. | Brian Turner | 2nd Thursdays @5:30pm
+**Dayton .NET Developers** - Helping software developers, technical leads, and managers keep in touch with .NET-related technologies. | Hanen Alkhafaji | 2nd Thursdays @6pm
+**Gem City Game Developers** - Exploring all topics around gaming and the gaming industry. We explore design, art, programming, digital and non-digital game topics. | Brian Turner | 2nd Thursdays @5:30pm
 **New to The Web** - Providing more entry level skill and career building training for those interested in the web or software development industry. | Davis Sanders | 3rd Tuesdays @6pm 
 **Frameworks** A monthly meeting that explore a balance of _both_ frontend web DESIGN topics & frontend web DEVELOPMENT topics. | Allen May | 3rd Wednesdays @6pm
 
