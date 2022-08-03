@@ -35,3 +35,6 @@ All events are listed on the [GemCity Tech Meetup.com Events calandar](https://w
 
 ## Opportunities
   - [Southwest Ohio Hiring Tech Companies](https://docs.google.com/document/d/1LrXH8y7deTrxpOxs2pGrwvXUVVNNvMtSPJqStEllQNE/edit) - A list of local businesses that would be of interest for a new job in tech.
+
+## Connect with us
+  - [Gemcity Tech Discord](https://discord.gg/tseSTARJas)
