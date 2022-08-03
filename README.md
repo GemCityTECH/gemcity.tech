@@ -38,3 +38,4 @@ All events are listed on the [GemCity Tech Meetup.com Events calandar](https://w
 
 ## Connect with us
   - [Gemcity Tech Discord](https://discord.gg/tseSTARJas)
+  - <img src="LI-In-Bug.png" alt="GemCity TECH logo" style="width: 100px; margin-right: 20px;" />
