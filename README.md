@@ -38,5 +38,5 @@ All events are listed on the [GemCity Tech Meetup.com Events calandar](https://w
 
 ## Connect with us
 
-  - [<img src="Discord-Logo+Wordmark-Color.png" alt="GemCity TECH logo" style="width: 10vw; margin-right: 20px;" />](https://discord.gg/tseSTARJas)
-  - <img src="LI-In-Bug.png" alt="GemCity TECH logo" style="width: 10vw; margin-right: 20px;" />
+  [<img src="Discord-Logo+Wordmark-Color.png" alt="Discord logo with link to GemCity TECH Discord server" style="width: 10vw; margin-right: 20px;" />](https://discord.gg/tseSTARJas)<br>
+  [<img src="LI-Logo.png" alt="Linkedin logo with link to GemCity TECH Linkedin profile" style="width: 10vw; margin-right: 20px;" />](https://www.linkedin.com/company/gemcitytech)
