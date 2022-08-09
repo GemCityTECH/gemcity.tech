@@ -40,3 +40,7 @@ All events are listed on the [GemCity Tech Meetup.com Events calandar](https://w
 
   [<img src="Discord-Logo+Wordmark-Color.png" alt="Discord logo with link to GemCity TECH Discord server" style="width: 10vw; margin-right: 20px;" />](https://discord.gg/tseSTARJas)<br>
   [<img src="LI-Logo.png" alt="Linkedin logo with link to GemCity TECH Linkedin profile" style="width: 10vw; margin-right: 20px;" />](https://www.linkedin.com/company/gemcitytech)
+
+## Our Sponsors
+
+Technology First
