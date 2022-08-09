@@ -43,4 +43,5 @@ All events are listed on the [GemCity Tech Meetup.com Events calandar](https://w
 
 ## Our Sponsors
 
-Technology First
+[<img src="TechnologyFirst.png" alt="Technology First logo with link to Technology First website" style="width: 10vw; margin-right: 20px;" />](https://www.technologyfirst.org/)<br />
+Technology First is the technology member association for the region. For 25 years, Technology First has been committed to building a community of leading-edge IT professionals. We stand on three pillars: to connect, strengthen and champion technology in the Dayton region. Come shape the future of technology with us. #UniteDaytonTech
