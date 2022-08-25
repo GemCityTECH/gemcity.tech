@@ -16,9 +16,10 @@ User Group | Organizer | Meeting Time
 **Dayton Dynamic Languages** - Casual discussions and demonstrations that lean towards Ruby/Rails, Python/Django, Scheme, Lisp & Smalltalk | Catherine Devlin | 2nd Wednesdays @7pm
 **Dayton .NET Developers** - Helping software developers, technical leads, and managers keep in touch with .NET-related technologies. | Hanen Alkhafaji | 2nd Thursdays @6pm
 **Gem City Game Developers** - Exploring all topics around gaming and the gaming industry. We explore design, art, programming, digital and non-digital game topics. | Brian Turner | 2nd Thursdays @5:30pm
-**New to The Web** - Providing more entry level skill and career building training for those interested in the web or software development industry. | Davis Sanders | 3rd Tuesdays @6pm 
+**New to Tech** - A public group that meets twice a month targeted at folks who are just starting to learn about software development, up through those already employed in the industry who are targeting their first promotion. Topics will be presented twice - on the 1st Tuesday of this month then again on the 3rd Tuesday of next month. Topics will be split between software development fundamentals & career guidance and there will be plenty of time for group discussion & live coding. Please bring your laptop!| Matt Alioto | 1st & 3rd Tuesdays @6pm 
 **Frameworks** A monthly meeting that explore a balance of _both_ frontend web DESIGN topics & frontend web DEVELOPMENT topics. | Allen May | 3rd Wednesdays @6pm
 **Gem City ML / AI** For professionals who are curious about machine learning and meeting with like minded professionals. | Evelyn Boettcher | 3rd Thursdays @6pm
+**Code For Dayton** A monthly user group meeting that follows the "hack night" format - a little discussion and show and tell up front, followed by an opportunity to break into groups to work on civic or community oriented projects.|David Best|1st Tuesday @6pm
 
 Currently, all meetings are at the Innovation Hub at the Downtown Dayton Arcade Building.  
 
@@ -26,7 +27,7 @@ Currently, all meetings are at the Innovation Hub at the Downtown Dayton Arcade 
 31 South Main Street  Dayton, OH](https://www.google.com/maps/place/31+S+Main+St,+Dayton,+OH+45402/@39.758539,-84.192227,17z/data=!3m1!4b1!4m5!3m4!1s0x88408153e7e708e5:0x14440aead56abdc0!8m2!3d39.758539!4d-84.192227)
 
 All user groups are free and open to the public.  
-All events are listed on the [GemCity Tech Meetup.com Events calandar](https://www.meetup.com/gem-city-tech/events/calendar/)
+All events are listed on the [GemCity TECH Meetup.com Events calandar](https://www.meetup.com/gem-city-tech/events/calendar/)
 - If you have an interest in tech, join us at an upcoming event  
 - Have an idea for a tech community, let's talk about starting one up 
 
