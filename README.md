@@ -21,7 +21,8 @@ Our family of user groups (in order of monthly occurance):
 ![](GemCityTechMLAI.png) | **Gem City ML / AI** For professionals who are curious about machine learning and meeting with like minded professionals. | Evelyn Boettcher | 3rd Thursdays @6pm
 [![Code for Dayton](CodeForDayton.png)](https://www.codefordayton.org/) | **Code For Dayton** A monthly user group meeting that follows the "hack night" format - a little discussion and show and tell up front, followed by an opportunity to break into groups to work on civic or community oriented projects.|David Best|1st Tuesday @6pm
 
-[Generic opening slides](https://docs.google.com/presentation/d/1T8XDGWylhhdNcMRqnTvhAMQVGRyjBGr5X2-G0PB23TE/edit?usp=sharing)
+  - [Generic opening slides](https://docs.google.com/presentation/d/1T8XDGWylhhdNcMRqnTvhAMQVGRyjBGr5X2-G0PB23TE/edit?usp=sharing)
+  - [Trifold Brochure](_site/assets/../../assets/TrifoldBrochure.png) 
 
 Currently, all meetings are at the Innovation Hub at the Downtown Dayton Arcade Building.  
 
