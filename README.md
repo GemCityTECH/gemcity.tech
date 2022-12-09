@@ -24,6 +24,7 @@ Our family of user groups (in order of monthly occurance):
 Resources:  
   - [Generic opening slides](https://docs.google.com/presentation/d/1T8XDGWylhhdNcMRqnTvhAMQVGRyjBGr5X2-G0PB23TE/edit?usp=sharing)
   - [Trifold Brochure](_site/assets/../../assets/TrifoldBrochure.png) 
+  - [Resource Links](notes/ResourceLinks.html)
 
 Currently, all meetings are at the Innovation Hub at the Downtown Dayton Arcade Building.  
 
