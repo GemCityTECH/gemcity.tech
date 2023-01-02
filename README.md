@@ -68,6 +68,11 @@ The Arcade Innovation Hub, powered by PNC Bank, was created to serve as the regi
 Technology First is the technology member association for the region. For 25 years, Technology First has been committed to building a community of leading-edge IT professionals. We stand on three pillars: to connect, strengthen and champion technology in the Dayton region. Come shape the future of technology with us. #UniteDaytonTech</p>
 </div>
 
+<p><a href="https://www.technologyfirst.org"><img src="HumanIT.png" alt="HumanIT logo with link to HumanIT website" style="width: 15vw; margin-right: 20px;"></a><br>
+We are Veteran Technologist who aspire to create a high-end Technology company, founded on the belief that more focus, dedication, and attention to Technology would better serve our numerous clients. We took our knowledge, discipline, and years of experience in Big Business, and applied it to HumanIT. We are small, but we know that honesty, integrity, expertise, agility, and lots of hard work are the keys to success!</p>
+</div>
+
+
 ## Videos of recent meetings
 
 <strong>December 7, 2022</strong> Dayton Web Developers: Exploring the value of JavaScript frameworks
