@@ -3,10 +3,10 @@ layout: default
 title: GemCity TECH - Mission Statement
 ---
 
-<span style="display: flex; align-items: center;">  
+<div id="menu">
   <img src="GCTSquareWhiteForeground.png" alt="GemCity TECH logo" style="width: 100px; margin-right: 20px;" />
   <a href="./"> Home</a> | <strong> Mission Statement</strong> | <a href="./CodeOfConduct">Code of Conduct</a>
-</span>
+</div>
 
 **GemCity TECH**’s mission is to grow the local industry and the community by
 providing a centralized destination for technical training, workshops and
