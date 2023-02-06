@@ -104,11 +104,11 @@ by Allen May
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZD_1LJaXpBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-V74JT7B0J8"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6BFN37CEGC"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-V74JT7B0J8');
+  gtag('config', 'G-6BFN37CEGC');
 </script>
