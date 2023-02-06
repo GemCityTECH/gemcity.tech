@@ -325,7 +325,8 @@ a:hover { text-decoration: underline; }
 
 span.site-footer-credits {
     display: none;
-
+}
+  
 #menu { 
   display: flex; 
   align-items: center; 
