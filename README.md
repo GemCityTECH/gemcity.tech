@@ -13,10 +13,15 @@
 </div>
 
 ## Mission Brief: 
-GemCity TECH’s mission is to grow the local industry and the community by providing a centralized destination for technical training, workshops and providing a forum for collaborating.
+<pre>
+<strong>com·mu·ni·ty</strong>
+2. a feeling of fellowship with others, as a result of sharing common attitudes, interests, and goals.
+</pre>
+
+<strong>GemCity TECH</strong>’s mission is to grow the Dayton industry and the Gem City community by providing a centralized destination for technical training, workshops and providing a forum for collaborating.
 [detail](./MissionStatement)
 
-We Currently support six special interest groups from a variety of technical disciplines. We would like to expand and support the technical community and are always open to discussion about new groups.
+We Currently support eight special interest groups from a variety of technical disciplines. We would like to expand and support the technical community and are always open to discussion about new opportunities.
 
 Our family of user groups (in order of monthly occurance):
 
