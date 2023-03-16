@@ -86,7 +86,7 @@ Technology First is the technology member association for the region. For 25 yea
 <p><a href="https://www.technologyfirst.org"><img src="HumanIT.png" alt="HumanIT logo with link to HumanIT website" style="width: 15vw; margin-right: 20px;"></a><br>
 We are Veteran Technologist who aspire to create a high-end Technology company, founded on the belief that more focus, dedication, and attention to Technology would better serve our numerous clients. We took our knowledge, discipline, and years of experience in Big Business, and applied it to HumanIT. We are small, but we know that honesty, integrity, expertise, agility, and lots of hard work are the keys to success!</p>
 
-<p><a href="https://kableacademy.com/"><img src="KableAcademy_Logo_HR.png" alt="Kable Academy logo with link to Kable Academy website" style="width: 15vw; margin-right: 20px;"></a><br>
+<p><a href="https://kableacademy.com/"><img src="KableAcademy_Logo_HR.jpg" alt="Kable Academy logo with link to Kable Academy website" style="width: 15vw; margin-right: 20px;"></a><br>
 Kable Academy puts tech careers within reach for those willing to explore a life in IT. They are change agents, who wield the tools of education, accessibility, and connection.
 </p>
 
