@@ -36,17 +36,6 @@ Our family of user groups (in order of monthly occurance):
 ![Frameworks](Frameworks.png) | **Frameworks** A monthly meeting that explore a balance of _both_ frontend web DESIGN topics & frontend web DEVELOPMENT topics. | Allen May | 3rd Wednesdays @6pm
 ![](GemCityTechMLAI.png) | **Gem City ML / AI** For professionals who are curious about machine learning and meeting with like minded professionals. | Evelyn Boettcher | 3rd Thursdays @6pm
 
-  <dialog id="eventDateDialog">
-    <h2 id="eventTitle"></h2>
-    <ol id="datesList"></ol>
-    <button onclick="closeDialog(this)">Close</button>
-    <button onclick="copyToClipboard()">Copy to Clipboard</button>
-  </dialog>  
-  <dialog id="eventDatesCopied">
-    <h1>Copied!</h1>
-  </dialog>
-
-
 Resources:  
   - [Generic opening slides](https://docs.google.com/presentation/d/1T8XDGWylhhdNcMRqnTvhAMQVGRyjBGr5X2-G0PB23TE/edit?usp=sharing)
   - [Trifold Brochure](_site/assets/../../assets/TrifoldBrochure.png) 
