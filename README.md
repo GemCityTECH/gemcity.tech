@@ -34,7 +34,7 @@ Our family of user groups (in order of monthly occurance):
 ![Dayton .Net Developers](DaytonDotNet.png) | **Dayton .NET Developers** - Helping software developers, technical leads, and managers keep in touch with .NET-related technologies. | Hanen Alkhafaji | 2nd Tuesdays @6pm
 ![Gem City Game Developers](GemCityGameDevelopers.png) | **Gem City Game Developers** - Exploring all topics around gaming and the gaming industry. We explore design, art, programming, digital and non-digital game topics. | Brian Turner | 2nd Thursdays @5:30pm
 ![Frameworks](Frameworks.png) | **Frameworks** A monthly meeting that explore a balance of _both_ frontend web DESIGN topics & frontend web DEVELOPMENT topics. | Allen May | 3rd Wednesdays @6pm
-![](GemCityTechMLAI.png) | **Gem City ML / AI** For professionals who are curious about machine learning and meeting with like minded professionals. | Evelyn Boettcher | 3rd Thursdays @6pm
+![](gem_city_social.png) | **Gem City ML / AI** For professionals who are curious about machine learning and meeting with like minded professionals. | Evelyn Boettcher | 3rd Thursdays @6pm
 
 Resources:  
   - [Generic opening slides](https://docs.google.com/presentation/d/1T8XDGWylhhdNcMRqnTvhAMQVGRyjBGr5X2-G0PB23TE/edit?usp=sharing)
