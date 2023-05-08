@@ -1,0 +1,55 @@
+---
+pdf-engine: pdflatex
+
+format:   
+  pdf: 
+    template: 2_column.latex
+    fig-pos: 't'
+         
+---
+\thispagestyle{empty}
+ \begin{wrapfigure}{l}{1.1in}
+	\includegraphics[width=1.1in]{img/GemCityMechatronicsLogo_Transparent.png}
+	\includegraphics[width=1.1in]{img/CodeForDayton.png}
+	\includegraphics[width=1.0in]{img/New_To_Tech_Mascot.png}
+  \includegraphics[width=1.1in]{img/Dayton_Web_Developers.png}
+  \includegraphics[width=1.1in]{img/DDLLogo.png}
+  \includegraphics[width=1.1in]{img/AutonomousMiamiValleyLogo.png}
+	\includegraphics[width=1.1in]{img/DaytonDotNet.png}
+	\includegraphics[width=1.1in]{img/GemCityGameDevelopers.png}
+  \includegraphics[width=1.1in]{img/Frameworks.png}
+  \includegraphics[width=1.1in]{img/gem_city_social.png}
+\end{wrapfigure}
+
+
+**Gem City Mechatronics** - A community of electronics enthusiasts for topics like electronics, prototyping, circuitry, Raspberry Pi and Arduino projects.
+**LAB NIGHT**: 1st Monday 6pm **THEORY NIGHT**: 3rd Tuesday 6pm
+<br>
+
+**Code For Dayton** -  Meeting follow the "hack night" format - a little discussion and show and tell up front, followed by an opportunity to break into groups to work on civic or community oriented projects.  **Hack Night** 1st Tuesday 6pm.
+<br>
+ 
+**New to Tech** - Focused on folks who are just starting to learn about software development, through those already employed who are targeting their first promotion. Topics will be split between software development fundamentals and career guidance. There will be plenty of time for group discussion and live coding. Please bring your laptop!  **Meets:** 1st Tuesdays 6pm
+<br>
+
+**Dayton Web Developers** - General topics for modern web developement  **Meets:** 1st Wednesdays 6pm 
+<br>
+ 
+**Dayton Dynamic Languages** - Casual discussions and demonstrations that lean towards Ruby/Rails, Python, Scheme, Lisp  and Smalltalk, (d8ndl.org) **Meets:** 2nd Wednesdays 7pm
+<br>
+
+**Autonomous Miami Valley** - The Autonomous MV user group is a community of individuals who share an interest in promoting and advancing the use of autonomous technologies.  For anyone who is interested in learning more about autonomous systems and supporting technologies for business, academic or personal interest.   **Meets:** 2nd Tuesdays 5pm 
+<br>
+
+**Dayton .NET Developers** - Helping software developers, technical leads, and managers keep in touch with .NET-related technologies. **Meets:** 2nd Tuesdays 6pm
+<br>
+ 
+**Gem City Game Developers** - Exploring all topics around gaming and the gaming industry. We explore design, art, programming, digital and non-digital game topics. **Meets:** 2nd Thursdays 5:30pm 
+<br>
+
+**Frameworks** Explore a balance of **both** frontend web DESIGN topics and frontend web DEVELOPMENT topics.  **Meets:** 3rd Wednesdays 6pm 
+<br>
+
+**Gem City ML / AI** For people who are curious about machine learning and meeting with like minded professionals.  **Meets:** 3rd Thursdays 6pm
+
+
