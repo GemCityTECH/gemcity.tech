@@ -105,30 +105,30 @@ by Bryan Braun
 
 <strong>December 7, 2022</strong> Dayton Web Developers: Exploring the value of JavaScript frameworks
 by Seth White
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OfVdFqXyEXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OfVdFqXyEXM" title="Exploring the value of JavaScript frameworks by Seth White" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <strong>November 17, 2021</strong> Dayton Frontend Dev: Intro to Figma design and Next JS  
 by Noelle Lansford & Bulent Tastan  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5nBW_SVTIGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5nBW_SVTIGk" title="Intro to Figma design and Next JS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 <strong>November 16, 2021</strong> New to the Web - Getting Started with JSON Web Tokens  
 by Davis Sanders
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zgkxb8Jgvu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zgkxb8Jgvu4" title="Getting Started with JSON Web Tokens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <strong>November 10, 2021</strong> The Dynamic Languages Group - Tutorial: Handling Large Data with Python Pandas  
 by Evelyn Boettcher
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OJIa7UkRteI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OJIa7UkRteI" title="Handling Large Data with Python Pandas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <strong>November 6, 2021</strong> Dayton Web Developers: Visual Studio Code - The Swiss Army Knife of Editors  
 by James Carr
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x6ueIgyvAag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x6ueIgyvAag" title="isual Studio Code - The Swiss Army Knife of Editors" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <strong>October 20, 2021</strong> GemCity TECH: Building Decentralized Apps on Blockchain  
 by Bulent Tastan
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1OJSLHy3wiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1OJSLHy3wiM" title="Building Decentralized Apps on Blockchain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <strong>September 1, 2021</strong> Dayton Web Developers - Sharing the history of the Dayton Web Developers and the plans for the future with GemCity TECH  
 by Allen May
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZD_1LJaXpBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZD_1LJaXpBE" title="Sharing the history of the Dayton Web Developers and the plans for the future with GemCity TECH" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
