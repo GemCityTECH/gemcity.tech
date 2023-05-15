@@ -101,7 +101,7 @@ Dayton's freshest, best pizza since 1986. Winner of the 2020 Dayton Business Jou
 
 <strong>May 3, 2023</strong> Dayton Web Developers: Augmented Development with AI
 by Bryan Braun
-<iframe width="560" height="315" src="https://youtu.be/lDyBR4XkC5A" title="Augmented Development with AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lDyBR4XkC5A" title="Augmented Development with AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <strong>December 7, 2022</strong> Dayton Web Developers: Exploring the value of JavaScript frameworks
 by Seth White
