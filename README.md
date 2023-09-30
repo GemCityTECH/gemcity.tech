@@ -1,11 +1,11 @@
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-6BFN37CEGC"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-V4KPBE7F1S"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-6BFN37CEGC');
+  gtag('config', 'G-V4KPBE7F1S');
 </script>
 
 <div id="menu">
@@ -32,7 +32,7 @@ Our family of user groups (in order of monthly occurance):
 ![New To Tech](New_To_Tech_Mascot.png) | **New to Tech** - A public group focused on folks who are just starting to learn about software development, up through those already employed in the industry who are targeting their first promotion. Topics will be split between software development fundamentals & career guidance and there will be plenty of time for group discussion & live coding. Please bring your laptop!| Matt Alioto | 1st Tuesdays @6pm  
 ![The Dayton Web Developers](Dayton_Web_Developers.png) | **Dayton Web Developers** - general topics around being a modern web developer | Allen May | 1st Wednesdays @6pm
 [![Dynamic Languages Group](DDLLogo.png)](http://d8ndl.org/)  | **Dayton Dynamic Languages** - Casual discussions and demonstrations that lean towards Ruby/Rails, Python/Django, Scheme, Lisp & Smalltalk | Catherine Devlin | 2nd Wednesdays @7pm 
-![Autonomous Miami Valley](Autonomous%20Miami%20Valley%20Logo.png) | **Autonomous Miami Valley** - The Autonomous MV user group is a community of individuals who share an interest in promoting and advancing the use of autonomous technologies. This group encourages the participation of researchers, developers, engineers, entrepreneurs, policymakers, and other stakeholders who are working to create and implement autonomous systems in various industries and applications. We also encourage anyone who is interested in learning more about autonomous systems and supporting technologies for business, academic or personal interest. All are welcome. | Robert Orenbaun | 2nd Tuesdays @5pm
+![Autonomous Miami Valley](Autonomous%20Miami%20Valley%20Logo.png) | **Autonomous Miami Valley** - The Autonomous MV user group is a community of individuals who share an interest in promoting and advancing the use of autonomous technologies. This group encourages the participation of researchers, developers, engineers, entrepreneurs, policymakers, and other stakeholders who are working to create and implement autonomous systems in various industries and applications. We also encourage anyone who is interested in learning more about autonomous systems and supporting technologies for business, academic or personal interest. All are welcome. | Robert Blackthorn | 2nd Tuesdays @5pm
 ![Dayton .Net Developers](DaytonDotNet.png) | **Dayton .NET Developers** - Helping software developers, technical leads, and managers keep in touch with .NET-related technologies. | Hanen Alkhafaji | 2nd Tuesdays @6pm
 ![Gem City Game Developers](GemCityGameDevelopers.png) | **Gem City Game Developers** - Exploring all topics around gaming and the gaming industry. We explore design, art, programming, digital and non-digital game topics. | Brian Turner | 2nd Thursdays @5:30pm
 ![Frameworks](Frameworks.png) | **Frameworks** A monthly meeting that explore a balance of _both_ frontend web DESIGN topics & frontend web DEVELOPMENT topics. | Allen May | 3rd Wednesdays @6pm
@@ -99,32 +99,36 @@ Dayton's freshest, best pizza since 1986. Winner of the 2020 Dayton Business Jou
 
 ## Videos of recent meetings
 
+<strong>May 3, 2023</strong> Dayton Web Developers: Augmented Development with AI
+by Bryan Braun  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lDyBR4XkC5A" title="Augmented Development with AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <strong>December 7, 2022</strong> Dayton Web Developers: Exploring the value of JavaScript frameworks
 by Seth White
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OfVdFqXyEXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OfVdFqXyEXM" title="Exploring the value of JavaScript frameworks by Seth White" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <strong>November 17, 2021</strong> Dayton Frontend Dev: Intro to Figma design and Next JS  
 by Noelle Lansford & Bulent Tastan  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5nBW_SVTIGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5nBW_SVTIGk" title="Intro to Figma design and Next JS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 <strong>November 16, 2021</strong> New to the Web - Getting Started with JSON Web Tokens  
 by Davis Sanders
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zgkxb8Jgvu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zgkxb8Jgvu4" title="Getting Started with JSON Web Tokens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <strong>November 10, 2021</strong> The Dynamic Languages Group - Tutorial: Handling Large Data with Python Pandas  
 by Evelyn Boettcher
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OJIa7UkRteI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OJIa7UkRteI" title="Handling Large Data with Python Pandas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <strong>November 6, 2021</strong> Dayton Web Developers: Visual Studio Code - The Swiss Army Knife of Editors  
 by James Carr
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x6ueIgyvAag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x6ueIgyvAag" title="isual Studio Code - The Swiss Army Knife of Editors" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <strong>October 20, 2021</strong> GemCity TECH: Building Decentralized Apps on Blockchain  
 by Bulent Tastan
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1OJSLHy3wiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1OJSLHy3wiM" title="Building Decentralized Apps on Blockchain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <strong>September 1, 2021</strong> Dayton Web Developers - Sharing the history of the Dayton Web Developers and the plans for the future with GemCity TECH  
 by Allen May
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZD_1LJaXpBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZD_1LJaXpBE" title="Sharing the history of the Dayton Web Developers and the plans for the future with GemCity TECH" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
