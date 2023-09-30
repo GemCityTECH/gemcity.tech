@@ -28,18 +28,19 @@ format:
    - attending
 
 <br>
+\hfill
 
 \hrule
 
 \makebox[3.1in][c]{
-  \includegraphics[width=1.1in]{GemCity_meetup_qr.png}}
+  \includegraphics[width=1.1in]{./img/GemCity_meetup_qr.png}}
 
 \makebox[3.1in][c]{\textbf{GemCity.TECH}}
 
 \columnbreak
 
  **Our Groups**  
- Each of our monthly user groups brings people together to explore and learning about technology. We provide a platform for people to get involved, exercise new skills make new friends and build a support system. <br> 
+ Each of our monthly user groups brings people together to explore and learn about technology. We provide a platform for people to get involved, exercise new skills make new friends and build a support system. <br> 
 There are multiple opportunities to share your knowledge, learn from others and take ownership of your own community. 
 
 
@@ -60,7 +61,7 @@ We’ll gladly give you a tour of the beautiful collaboration space.
 
 <br>
 
-Contact us on your Discord Servier
+Contact us on our Discord Server
 
 \makebox[3.15in][c]{
   \includegraphics[width=1.1in]{img/gemcity_discord_qr.png}}
@@ -68,13 +69,30 @@ Contact us on your Discord Servier
 
 \columnbreak
 
+<br>
+<br>
+
 ![](img/GCTSquareWhiteForeground.png)
 
 **Dayton's Tech Community**
 
-**Add Image**
+
 
 GemCity TECH provides a centralized destination for technical
 training, workshops, forums and
-opportunities to collaborate in the Dayton, OH area.
+opportunities to collaborate in the Dayton, Ohio area.
 
+<br>
+
+![](img/meetup_image.jpg)
+\hrule
+
+<br>
+<br>
+
+\hrule
+
+\makebox[3.1in][c]{
+  \includegraphics[width=1.1in]{./img/GemCity_meetup_qr.png}}
+
+\makebox[3.1in][c]{\textbf{GemCity.TECH}}

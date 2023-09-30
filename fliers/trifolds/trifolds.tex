@@ -126,10 +126,12 @@
 \@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
 \makeatother
 \makeatletter
-\@ifpackageloaded{tcolorbox}{}{\usepackage[many]{tcolorbox}}
+\@ifpackageloaded{tcolorbox}{}{\usepackage[skins,breakable]{tcolorbox}}
 \makeatother
 \makeatletter
 \@ifundefined{shadecolor}{\definecolor{shadecolor}{rgb}{.97, .97, .97}}
+\makeatother
+\makeatletter
 \makeatother
 \makeatletter
 \makeatother
@@ -157,7 +159,7 @@
 \begin{multicols}{3}
 
 
-\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[interior hidden, frame hidden, boxrule=0pt, enhanced, sharp corners, breakable, borderline west={3pt}{0pt}{shadecolor}]}{\end{tcolorbox}}\fi
+\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[enhanced, breakable, frame hidden, sharp corners, interior hidden, boxrule=0pt, borderline west={3pt}{0pt}{shadecolor}]}{\end{tcolorbox}}\fi
 
 \thispagestyle{empty}
 \hrule
@@ -201,10 +203,12 @@
   \end{itemize}
 \end{itemize}
 
+\hfill
+
 \hrule
 
 \makebox[3.1in][c]{
-  \includegraphics[width=1.1in]{GemCity_meetup_qr.png}}
+  \includegraphics[width=1.1in]{./img/GemCity_meetup_qr.png}}
 
 \makebox[3.1in][c]{\textbf{GemCity.TECH}}
 
@@ -212,7 +216,7 @@
 
 \textbf{Our Groups}\\
 Each of our monthly user groups brings people together to explore and
-learning about technology. We provide a platform for people to get
+learn about technology. We provide a platform for people to get
 involved, exercise new skills make new friends and build a support
 system. There are multiple opportunities to share your knowledge, learn
 from others and take ownership of your own community.
@@ -227,7 +231,7 @@ with grand and open spaces.
 
 We'll gladly give you a tour of the beautiful collaboration space.
 
-Contact us on your Discord Servier
+Contact us on our Discord Server
 
 \makebox[3.15in][c]{
   \includegraphics[width=1.1in]{img/gemcity_discord_qr.png}}
@@ -238,11 +242,20 @@ Contact us on your Discord Servier
 
 \textbf{Dayton's Tech Community}
 
-\textbf{Add Image}
-
 GemCity TECH provides a centralized destination for technical training,
-workshops, forums and opportunities to collaborate in the Dayton, OH
+workshops, forums and opportunities to collaborate in the Dayton, Ohio
 area.
+
+\includegraphics{img/meetup_image.jpg}
+
+\hrule
+
+\hrule
+
+\makebox[3.1in][c]{
+  \includegraphics[width=1.1in]{./img/GemCity_meetup_qr.png}}
+
+\makebox[3.1in][c]{\textbf{GemCity.TECH}}
 
 
 
