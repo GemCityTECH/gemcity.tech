@@ -91,9 +91,6 @@ We are Veteran Technologist who aspire to create a high-end Technology company, 
 Kable Academy puts tech careers within reach for those willing to explore a life in IT. They are change agents, who wield the tools of education, accessibility, and connection.
 </p>
 
-<p><a href="https://pizzafactory.biz"><img src="PizzaFactory.png" alt="Pizza Factory logo with link to the Pizza Factory website" style="width: 15vw; margin-right: 20px;"></a><br>
-Dayton's freshest, best pizza since 1986. Winner of the 2020 Dayton Business Journal's "Pizza Madness" contest & voted Dayton's Best Pizza. 1st place in the Sofo Foods "Pizza Challenge", and top 10 finish at the national Mid Am "Pizza Pizzazz" competition. Sandwiches, salads, side offerings and a wide, eclectic soft drink selection. Catering options for business and large events.</p>
-
 </div>
 
 
