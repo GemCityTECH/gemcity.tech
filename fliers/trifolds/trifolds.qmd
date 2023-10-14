@@ -1,5 +1,6 @@
 ---
-pdf-engine: pdflatex
+pdf-engine: lualatex
+mainfont: Dosis
 
 format:  
    pdf: 
@@ -22,12 +23,14 @@ format:
 - Expand your network of technology professionals
 - Find like minded people to collaborate on your project
 - Share your knowledge by speaking it at an event
-- Talk to GemCity TECH leaders about starting your own community in the GemCity TECH family
 - Help grow local industry by:
    - sponsoring
    - attending
 
 <br>
+
+GemCity TECH is a 501(c)(3) non profit.
+
 \hfill
 
 \hrule

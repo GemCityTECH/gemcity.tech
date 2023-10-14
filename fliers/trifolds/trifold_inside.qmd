@@ -5,6 +5,7 @@ format:
   pdf: 
     template: 2_column.latex
     fig-pos: 't'
+    keep-tex: true
          
 ---
 \thispagestyle{empty}
