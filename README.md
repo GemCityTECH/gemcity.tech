@@ -23,6 +23,8 @@
 
 We have a variety of special interest groups representing different technical disciplines. We would like to expand and support the technical community and are always open to discussion about new opportunities.
 
+<strong><a href="https://secure.givelively.org/donate/gem-city-tech/gemcity-tech-pizza-support">Donate to help offset pizza expense</a></strong>
+
 Our family of user groups (in order of monthly occurance):
 
  Logo | User Group | Organizer | Meeting Time 
