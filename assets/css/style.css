@@ -339,3 +339,10 @@ span.site-footer-credits {
   padding: 2rem;
   margin: 0 auto;
 }
+
+.gl-simple-donation-widget {
+    margin: 10px 0px;
+    padding: 30px;
+    max-width: 500px;
+    border: solid thin black;
+}
