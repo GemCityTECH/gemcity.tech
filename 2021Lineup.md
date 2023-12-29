@@ -4,7 +4,7 @@ title: GemCity TECH - History - 2021 Lineup
 ---
 
 <div id="menu">
-<img src="GCTSquareWhiteForeground.png" alt="GemCity TECH logo" style="width: 100px; margin-right: 20px;" /> <a href="./"> Home</a>|<a href="./MissionStatement"> Mission Statement</a>|<a href="./CodeOfConduct">Code of Conduct</a>|<strong>History</strong>
+<img src="GCTSquareWhiteForeground.png" alt="GemCity TECH logo" style="width: 100px; margin-right: 20px;" /> <a href="./"> Home</a>|<a href="./MissionStatement"> Mission Statement</a>|<a href="./CodeOfConduct">Code of Conduct</a>|<a href="./History">History</a>|<strong>2021</strong>
 </div>
 
 In 2021 we started GemCity TECH with a short list of user groups, mostly carried over from before the Covid pandemic.

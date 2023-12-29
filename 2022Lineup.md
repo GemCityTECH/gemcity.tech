@@ -4,7 +4,7 @@ title: GemCity TECH - History - 2022 Lineup
 ---
 
 <div id="menu">
-<img src="GCTSquareWhiteForeground.png" alt="GemCity TECH logo" style="width: 100px; margin-right: 20px;" /> <a href="./"> Home</a>|<a href="./MissionStatement"> Mission Statement</a>|<a href="./CodeOfConduct">Code of Conduct</a>|<strong>History</strong>
+<img src="GCTSquareWhiteForeground.png" alt="GemCity TECH logo" style="width: 100px; margin-right: 20px;" /> <a href="./"> Home</a>|<a href="./MissionStatement"> Mission Statement</a>|<a href="./CodeOfConduct">Code of Conduct</a>|<a href="./History">History</a>|<strong>2022</strong>
 </div>
 
 In 2022 we added the **Frameworks**, **Code For Dayton** and **Gem City ML / AI** user groups to the family of user groups. Unfortunatley the **Frameworks** would drop off the roster in 2023.

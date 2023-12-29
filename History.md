@@ -5,7 +5,7 @@ title: GemCity TECH - History
 
 <div id="menu">
   <img src="GCTSquareWhiteForeground.png" alt="GemCity TECH logo" style="width: 100px; margin-right: 20px;" />
-  <a href="./"> Home</a> | <strong> Mission Statement</strong> | <a href="./CodeOfConduct">Code of Conduct</a>
+  <a href="./"> Home</a>|<a href="./MissionStatement"> Mission Statement</a>|<a href="./CodeOfConduct">Code of Conduct</a>|<strong>History</strong>
 </div>
 
 We have cataloged the history of changes to the content lineup over the years. Click the year to vew the details of the user group lineup for that year:
