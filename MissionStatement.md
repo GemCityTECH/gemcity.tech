@@ -5,7 +5,10 @@ title: GemCity TECH - Mission Statement
 
 <div id="menu">
   <img src="GCTSquareWhiteForeground.png" alt="GemCity TECH logo" style="width: 100px; margin-right: 20px;" />
-  <a href="./"> Home</a> | <strong> Mission Statement</strong> | <a href="./CodeOfConduct">Code of Conduct</a>
+  <a href="./"> Home</a> | 
+  <strong> Mission Statement</strong> | 
+  <a href="./CodeOfConduct">Code of Conduct</a> |
+  <a href="./History">History</a>
 </div>
 
 **GemCity TECH**’s mission is to grow the local industry and the community by
