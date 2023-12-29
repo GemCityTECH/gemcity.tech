@@ -11,7 +11,7 @@ title: GemCity TECH - History
 We have cataloged the history of changes to the content lineup over the years. Click the year to vew the details of the user group lineup for that year:
 
 - <a href="./2021Lineup">2021</a> - The debut of GemCity TECH with only 5 user groups
-- <a href="./2023Lineup">2023</a> - Three new groups joined GemCity TECH: 
+- <a href="./2022Lineup">2022</a> - Three new groups joined GemCity TECH: 
   <ul>
   <li><strong>Frameworks</strong></li>
   <li><strong>Code For Dayton</strong></li>
