@@ -8,6 +8,16 @@ title: GemCity TECH - History
   <a href="./"> Home</a> | <strong> Mission Statement</strong> | <a href="./CodeOfConduct">Code of Conduct</a>
 </div>
 
-We have cataloged the history of changes to the content lineup over the years:
+We have cataloged the history of changes to the content lineup over the years. Click the year to vew the details of the user group lineup for that year:
 
-- <a href="./2023Lineup">2023 - A year of expansion</a>
+- <a href="./2021Lineup">2021</a> - The debut of GemCity TECH with only 5 user groups
+- <a href="./2023Lineup">2023</a> - Three new groups joined GemCity TECH: 
+  <ul>
+  <li>**Frameworks**</li>
+  <li>**Code For Dayton**</li>
+  <li>**Gem City ML / AI**</li>
+  </ul>
+- <a href="./2023Lineup">2023</a> - Two new groups joined GemCity TECH: <ul>
+  <li>**Gem City Mechatronics**</li>
+  <li>**Autonomous Miami Valley**</li>
+</ul>
