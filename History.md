@@ -13,12 +13,12 @@ We have cataloged the history of changes to the content lineup over the years. C
 - <a href="./2021Lineup">2021</a> - The debut of GemCity TECH with only 5 user groups
 - <a href="./2023Lineup">2023</a> - Three new groups joined GemCity TECH: 
   <ul>
-  <li>**Frameworks**</li>
-  <li>**Code For Dayton**</li>
-  <li>**Gem City ML / AI**</li>
+  <li><strong>Frameworks</strong></li>
+  <li><strong>Code For Dayton</strong></li>
+  <li><strong>Gem City ML / AI</strong></li>
   </ul>
   <a href="./2023Lineup">2023</a> - Two new groups joined GemCity TECH: 
   <ul>
-  <li>**Gem City Mechatronics**</li>
-  <li>**Autonomous Miami Valley**</li>
+  <li><strong>Gem City Mechatronics</strong></li>
+  <li><strong>Autonomous Miami Valley</strong></li>
   </ul>
