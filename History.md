@@ -17,7 +17,8 @@ We have cataloged the history of changes to the content lineup over the years. C
   <li>**Code For Dayton**</li>
   <li>**Gem City ML / AI**</li>
   </ul>
-- <a href="./2023Lineup">2023</a> - Two new groups joined GemCity TECH: <ul>
+  <a href="./2023Lineup">2023</a> - Two new groups joined GemCity TECH: 
+  <ul>
   <li>**Gem City Mechatronics**</li>
   <li>**Autonomous Miami Valley**</li>
-</ul>
+  </ul>
