@@ -1,10 +1,10 @@
 ---
 layout: default
-title: GemCity TECH - Mission Statement
+title: GemCity TECH - History - 2023 Lineup
 ---
 
 <div id="menu">
-<img src="GCTSquareWhiteForeground.png" alt="GemCity TECH logo" style="width: 100px; margin-right: 20px;" /> <strong>Home</strong>|<a href="./MissionStatement"> Mission Statement</a>|<a href="./CodeOfConduct">Code of Conduct</a>
+<img src="GCTSquareWhiteForeground.png" alt="GemCity TECH logo" style="width: 100px; margin-right: 20px;" /> <strong>Home</strong>|<a href="./MissionStatement"> Mission Statement</a>|<a href="./CodeOfConduct">Code of Conduct</a>|<a href="./History">History</a>
 </div>
 
 In 2023 we added the **Gem City Mechatronics** and **Autonomous Miami Valley** user groups. Sadly, these two groups would not carry on into 2024.
