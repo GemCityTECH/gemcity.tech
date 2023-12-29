@@ -6,6 +6,8 @@ title: GemCity TECH - Code of Conduct
   <img src="GCTSquareWhiteForeground.png" alt="GemCity TECH logo" style="width: 100px; margin-right: 20px;" />
   <a href="./"> Home</a> |
   <a href="./MissionStatement"> Mission Statement</a> |
+  <a href="./History">History</a>
+  
   <strong>Code of Conduct</strong>
 </div>
 
