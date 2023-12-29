@@ -9,7 +9,7 @@
 </script>
 
 <div id="menu">
-<img src="GCTSquareWhiteForeground.png" alt="GemCity TECH logo" style="width: 100px; margin-right: 20px;" /> <strong>Home</strong>|<a href="./MissionStatement"> Mission Statement</a>|<a href="./CodeOfConduct">Code of Conduct</a>
+<img src="GCTSquareWhiteForeground.png" alt="GemCity TECH logo" style="width: 100px; margin-right: 20px;" /> <strong>Home</strong>|<a href="./MissionStatement"> Mission Statement</a>|<a href="./CodeOfConduct">Code of Conduct</a>|<a href="./History">History</a>
 </div>
 
 ## Mission Brief: 
