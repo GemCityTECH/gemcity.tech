@@ -1,0 +1,5 @@
+---
+title: "2022"
+---
+
+{{< include 2022Lineup.md >}}
