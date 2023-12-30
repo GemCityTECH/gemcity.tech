@@ -7,7 +7,7 @@ website:
   google-analytics: "G-V4KPBE7F1S"
   page-footer: 
     center: "Copyright 2023 GemCity.TECH"
-  repo-url: https://github.com/GemCityTECH
+  repo-url: https://github.com/GemCityTECH/gemcity.tech
   repo-actions: [ issue ]
   open-graph:
     locale: en_US

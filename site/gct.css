@@ -122,12 +122,12 @@ input[type="checkbox"]:disabled {
 }
 
 .navbar {
-  background: linear-gradient(#04508f, #48bf88) !important;
-  height: 70px;
+  background: linear-gradient(0.25turn,#04508f, #48bf88) !important;
+  height: 80px;
 }
 
 .navbar-logo {
-  max-height: 60px;
+  max-height: 70px;
   height: 100%;
   
 }
