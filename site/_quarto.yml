@@ -1,0 +1,82 @@
+project:
+  type: website
+  output-dir: ../docs
+
+website:
+  title: "GemCity.TECH"
+  google-analytics: "G-V4KPBE7F1S"
+  page-footer: 
+    center: "Copyright 2023 GemCity.TECH"
+  repo-url: https://github.com/GemCityTECH
+  repo-actions: [ issue ]
+  open-graph:
+    locale: en_US
+    site-name: GemCity.TECH
+    image: img/logo/GCTSquareWhiteForeground.png
+    description: "GemCity TECHs mission is to grow the Dayton industry and the Gem City community by providing a centralized destination for technical training, workshops and providing a forum for collaborating"
+    title: "GemCity.TECH"
+  favicon: favicon.ico
+  navbar:
+    logo: img/logo/GCTSquareWhiteForeground.png
+    logo-alt: "GemCity.TECH"
+    title: false
+    left:
+      - href: index.qmd
+        text: Home
+      - text: About
+        menu:
+          - href: about.qmd
+            text: "About"
+          - href: GCT_board.qmd
+            text: "Board Members"
+          - href: codeOfConduct.qmd
+            text: "Code of Conduct"
+      - text: Resources
+        menu:
+          - href: https://ejboettcher.github.io/gemcityml-gen-qr/OpenRemarks.html#/title-slide
+            text: "Opening Slides"
+          - href: https://github.com/GemCityTECH/gemcity.tech/blob/main/fliers/trifolds/GemCity_trifold.pdf
+            text: "Brochure"
+          - href: oppertunities.qmd
+            text: "Opportunities"
+        
+      - text: History
+        menu:
+          - href: history/2023.qmd
+            text: "2023"
+          - href: history/2022.qmd
+            text: "2022"
+          - href: history/2021.qmd
+            text: "2021"
+      - text: Sponsor
+        menu:
+          - href: current_sponsors.qmd
+            text: "Current Sponsors"
+          - href: sponsor.qmd
+            text: "Sponsor"
+      - text: Donate
+        href: donate.qmd
+
+    tools:
+      - icon: discord
+        href: https://discord.gg/nyDtEytbt6
+      - icon: calendar3-week
+        href: https://www.meetup.com/gem-city-tech/
+      - icon: linkedin
+        href: https://www.linkedin.com/company/gemcitytech     
+    sidebar:
+      style: "docked"
+      search: true
+      logo: img/logo/GCTSquareWhiteForeground.png
+      contents:
+        - href: https://www.meetup.com/gem-city-tech
+          text: "MeetUp"
+        
+format:
+  html:
+    theme: [default. gct.scss]
+    css: gct.css
+    toc: true
+
+
+
