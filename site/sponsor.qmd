@@ -2,4 +2,4 @@
 title: "Sponsoring"
 ---
 
-{{< include markdown/sponsorship.md >}}
+{{< include _markdown/sponsorship.md >}}

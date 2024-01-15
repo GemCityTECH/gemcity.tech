@@ -131,3 +131,9 @@ input[type="checkbox"]:disabled {
   height: 100%;
   
 }
+
+.titlelogo {
+  position: absolute;
+  top: 0px;
+ 
+}

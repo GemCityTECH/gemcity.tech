@@ -46,7 +46,7 @@ $headings-font-weight:  500 !default;
 
 .reveal h1 {
   font-size: 2.6em;
-  color: #f98d43ff;
+  color: #2377c3;
   text-shadow: 0px 0px 1em rgba(0, 0, 0, 0.25);
 }
 
@@ -55,21 +55,21 @@ $headings-font-weight:  500 !default;
   font-size: 2em;
   padding-top:1px;
   font-weight: bold;
-  color: rgb(93, 158, 24); 
+  color: #2377c3; 
 }
 
 .reveal h3 {
-  font-size: 1.5em;
+  font-size: 1.4em;
   font-weight: bold;
-  color: #f98d43ff;
+  color:  #03c698fe; 
   text-shadow: 4px 4px 12px rgba(10, 0, 0, 0.15);
   line-height: 1em;
-  padding-bottom:0px;
+  padding-top: 10px;
   margin-bottom:0px;
 }
 
 .reveal h4 {
-  font-size: 1.4em;
+  font-size: 1.3em;
   font-weight: bold;
   color:rgb(3, 198, 152); 
   line-height:1em;
@@ -83,10 +83,10 @@ $headings-font-weight:  500 !default;
  *********************************************/
 .reveal p {
   margin: 1px 0;
-  line-height: 1.0;
+  line-height: 1.15;
   text-align: left;
   margin-left: 1em;
-  font-size: 1.0em;
+  font-size: 1.05em;
  }
 
 
@@ -109,15 +109,15 @@ $headings-font-weight:  500 !default;
   text-align: left;
   margin: 1px 0;
   margin-left: 1.2em;
-  padding: 0.1em;
-  font-size: 1.0em;
+  padding: 0.05em;
+  font-size: .95em;
   
 }
 
 .reveal .slide ul li {
-  margin-top: 0.1em !important;
-  margin-bottom: 0.1em !important;
-  font-size: 1em;
+  margin-top: 0.2em !important;
+  margin-bottom: 0.2em !important;
+  font-size: 1.05em;
 }
 
 .reveal ol {
@@ -356,21 +356,23 @@ $headings-font-weight:  500 !default;
     width: auto;
 }
 
+
 .reveal h1.title{
 text-align: center !important;
 align: center !important;
 margin-left: 0rem !important;
+font-size: 3.65em;
 padding-top: 5rem;
 box-sizing: content-box;
 width: 100% !important;
-color:  #039ac6ff;
-text-shadow: 1px 1px 5px #015079;
+color:  #039ac6ff !important;
+text-shadow: 1px 1px 5px #f5f8f9;
 }
 .reveal p.author{
   text-align: center !important;
   align: center !important;
   font-size: 1.35em;
-  color: #f98d43ff;
+  color: #027057fe;
   text-shadow: 1px 1px 5px #015079;
   padding-top: 0.2em !important;
   padding-bottom: .5em;
@@ -379,11 +381,12 @@ text-shadow: 1px 1px 5px #015079;
 .reveal p.subtitle{
   text-align: center !important;
   align: center !important;
-  font-size: 2.2em;
+  margin-left: 0rem !important;
+  font-size: 2.72em;
   color:  #039ac6ff;
   box-sizing: content-box;
-  width: 80% !important;
-  margin-left: 2.5rem !important;
+  width: 100% !important;
+
   text-shadow: 1px 4px 5px #015079;
  }
 

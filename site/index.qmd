@@ -8,7 +8,7 @@ title: "GemCity.TECH"
 com·mu·ni·ty
 2. a feeling of fellowship with others, as a result of sharing common attitudes, interests, and goals.
 ```
-{{< include markdown/MissionStatement.md >}}
+{{< include _markdown/MissionStatement.md >}}
 
 
 ## What's changing in 2024?
@@ -25,7 +25,7 @@ com·mu·ni·ty
 
 All user groups are free and open to the public. 
 
-{{< include markdown/groups.md >}}
+{{< include _markdown/groups.md >}}
 
 ### Meeting Location
 
