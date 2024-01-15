@@ -2,4 +2,4 @@
 title: "Code of Conduct"
 ---
 
-{{< include markdown/CodeOfConduct.md >}}
+{{< include _markdown/CodeOfConduct.md >}}

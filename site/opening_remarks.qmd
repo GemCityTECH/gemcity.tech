@@ -1,0 +1,22 @@
+---
+format:
+    revealjs:
+        incremental: false
+        theme: [default, gct.scss]
+        logo: ./img/logo/GCTSquare.png
+        footer: "GemCity.TECH"
+        template-partials:
+            - title-slide.html
+            
+title-slide-attributes:
+    data-background-image: './img/slide_background.png'
+    data-background-size: "110% 100% "
+    data-background-position: "-5% "
+    data-background-opacity: "0.95"
+
+logo-background: ./img/logo/GCTSquareWhiteForeground.png    
+fig-cap-location: margin
+
+---
+
+{{< include ./_markdown/opening_remarks.md >}}

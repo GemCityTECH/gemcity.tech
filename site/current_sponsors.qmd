@@ -4,4 +4,4 @@ title: Sponsors
 
 ## Our Sponsors and Partners
 
-{{< include markdown/sponsors.md >}}
+{{< include _markdown/sponsors.md >}}

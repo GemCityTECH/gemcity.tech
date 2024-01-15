@@ -33,11 +33,11 @@ website:
             text: "Code of Conduct"
       - text: Resources
         menu:
-          - href: https://ejboettcher.github.io/gemcityml-gen-qr/OpenRemarks.html#/title-slide
+          - href: opening_remarks.qmd
             text: "Opening Slides"
           - href: https://github.com/GemCityTECH/gemcity.tech/blob/main/fliers/trifolds/GemCity_trifold.pdf
             text: "Brochure"
-          - href: oppertunities.qmd
+          - href: opportunities.qmd
             text: "Opportunities"
         
       - text: History

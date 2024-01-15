@@ -4,13 +4,13 @@ title: "About"
 
 ## Mission
 
-{{< include markdown/MissionStatement.md >}}
+{{< include _markdown/MissionStatement.md >}}
 
-## Our Groups:
+## Our Groups
 
 All user groups are free and open to the public. 
 
-{{< include markdown/groups.md >}}
+{{< include _markdown/groups.md >}}
 
 ### Meeting Location
 
@@ -22,7 +22,7 @@ Currently, all meetings are at the Innovation Hub at the Downtown Dayton Arcade 
 ## Past Events
 
 
-## Videos of recent meetings
+### Videos of recent meetings
 
 <strong>May 3, 2023</strong> Dayton Web Developers: Augmented Development with AI
 by Bryan Braun  

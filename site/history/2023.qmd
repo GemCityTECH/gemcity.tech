@@ -2,4 +2,4 @@
 title: "2023"
 ---
 
-{{< include 2023Lineup.md >}}
+{{< include _markdown/2023Lineup.md >}}
