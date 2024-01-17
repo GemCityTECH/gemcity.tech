@@ -145,6 +145,14 @@ Bathrooms are located in the building
 ### Nearest exit
 
 
+### How to leave building after hours
+
+- Press the green button
+- Walk to the outside doors and turn left.
+- Press the door opener
+- Press the green button
+
+
 ---
 
 ## Upcoming Events
