@@ -7,7 +7,6 @@ format:
       template: 3_column.latex
       default-image-extension: tex
       keep-tex: true
-   
 ---
 
 \thispagestyle{empty}
@@ -36,7 +35,7 @@ GemCity TECH is a 501(c)(3) non profit.
 \hrule
 
 \makebox[3.1in][c]{
-  \includegraphics[width=1.1in]{./img/GemCity_meetup_qr.png}}
+  \includegraphics[width=1.1in]{../img/GemCity_meetup_qr.png}}
 
 \makebox[3.1in][c]{\textbf{GemCity.TECH}}
 
@@ -67,7 +66,7 @@ We’ll gladly give you a tour of the beautiful collaboration space.
 Contact us on our Discord Server
 
 \makebox[3.15in][c]{
-  \includegraphics[width=1.1in]{img/gemcity_discord_qr.png}}
+  \includegraphics[width=1.1in]{../img/gemcity_discord_qr.png}}
 
 
 \columnbreak
@@ -75,7 +74,7 @@ Contact us on our Discord Server
 <br>
 <br>
 
-![](img/GCTSquareWhiteForeground.png)
+![](../img/GCTSquareWhiteForeground.png)
 
 **Dayton's Tech Community**
 
@@ -96,6 +95,6 @@ opportunities to collaborate in the Dayton, Ohio area.
 \hrule
 
 \makebox[3.1in][c]{
-  \includegraphics[width=1.1in]{./img/GemCity_meetup_qr.png}}
+  \includegraphics[width=1.1in]{../img/GemCity_meetup_qr.png}}
 
 \makebox[3.1in][c]{\textbf{GemCity.TECH}}
