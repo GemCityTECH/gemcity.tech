@@ -137,3 +137,8 @@ input[type="checkbox"]:disabled {
   top: 0px;
  
 }
+
+#code-of-conduct {
+  overflow-y: auto;
+  overflow-x: auto;
+}
