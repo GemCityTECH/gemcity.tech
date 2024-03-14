@@ -13,7 +13,7 @@
   - [Dayton Web Developers](https://www.youtube.com/@daytonwebdevelopers1916)
   - [Fireship](https://www.youtube.com/@Fireship)
   - [freeCodeCamp.org](https://www.youtube.com/@freecodecamp)
-  - [Gem City Tech](https://www.youtube.com/@gemcitytech121)
+  - [GemCity TECH](https://www.youtube.com/@gemcitytech121)
   - [GitHub](https://www.youtube.com/@GitHub)
   - [GOTO Conferences](https://www.youtube.com/@GOTO-)
   - [Gyasi Linje](https://www.youtube.com/@GyasiLinje)
