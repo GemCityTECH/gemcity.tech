@@ -1,0 +1,5 @@
+---
+title: "Sponsoring"
+---
+
+{{< include _markdown/sponsorship.md >}}

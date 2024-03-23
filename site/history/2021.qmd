@@ -1,0 +1,5 @@
+---
+title: "2021"
+---
+
+{{< include _markdown/2021Lineup.md >}}
