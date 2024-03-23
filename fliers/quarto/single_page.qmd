@@ -1,0 +1,89 @@
+---
+mainfont: Comfortaa
+pdf-engine: xelatex
+page-layout: article
+format:  
+   pdf: 
+      keep-tex: true
+      default-image-extension: tex
+      fig-pos: 'hb'
+      layout-valign: "bottom"
+      number-sections: false
+      linestretch: 1.
+      margin-bottom: ".8in"
+      margin-top: ".8in"
+      margin-left: "1in"
+      margin-right: "1in"
+      crossref:
+         fig-title: " "
+      include-in-header:
+      - text: |
+          \usepackage{multicol} 
+
+---
+
+::: {layout="[20, -5, 50,-5, 20]" layout-valign="top"}
+\caption*{Discord} 
+
+\caption*{www.gemcity.Tech}
+
+\caption*{MeetUp} 
+
+![](../img/gemcity_discord_qr.png)  
+
+
+![](../img/GCTSquareWhiteForeground.png)
+
+
+![](../img/GemCity_meetup_qr.png)
+:::
+
+\vspace{-.25\baselineskip}
+
+Each of our monthly user groups brings people together to explore and learn about technology. We provide a platform for people to get involved, exercise new skills make new friends and build a support system.  
+ 
+\vspace{-.25\baselineskip}  
+
+::: {layout="[60, -5, 25, -10]"}
+::: {}
+**\Large Attend a GemCity TECH event to:**
+
+- Deepen your knowledge in:
+  - a technology or 
+  - a discipline
+- Grow your skills in an area
+- Diversify your skills 
+- Expand your network of tech. professionals!
+- Find like minded people to collaborate 
+- Share your knowledge
+   - Speak at an event
+- Be a part of a tech community
+
+:::
+::: {}
+\vspace{-2.15\baselineskip}
+|  |
+| :---: |
+| ![](../img/CodeForDayton.png) |
+| ![](../img/New_To_Tech_Mascot.png) |
+| ![](../img/GemCityGameDevelopers.png) | 
+:::
+:::
+\vspace{-1.05\baselineskip}
+::: {layout="[-5,28,-2, 30,-2, 28, -5]" layout-valign="bottom"}
+![](../img/gem_city_ml_social.png) 
+
+![](../img/DDLLogo.png) 
+
+![](../img/CognitiveThinkTank.png) 
+:::
+
+\vspace{-.5\baselineskip}
+**\large Groups:**  
+Code 4 Dayton, Software Engineer, New To Tech, Cognitive Think Tank, Dynamic Languages Group, Gem City Game Developers and GemCity Machine Learning.
+
+**\large Our Mission:**  
+Grow the Dayton's tech industry and community by providing a centralized destination for training, workshops and collaborating. We are the destination for those who are passionate about a wide range of technology topics.
+
+**\large Location:**  
+Downtown Dayton at the Archade / Innovation Hub.  More information can be found on MeetUp.
