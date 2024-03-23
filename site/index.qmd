@@ -10,8 +10,14 @@ com·mu·ni·ty
 ```
 {{< include _markdown/MissionStatement.md >}}
 
+## Save the Date
 
-## What's changing in 2024?
+We are hosting a potluck Saturday, July 27th 2024 from 2pm till 7pm at Hills and Dales MetroPark.
+More information coming!
+
+![](./img/BBQ.png)
+
+## What changed in 2024?
 
 - The Dayton Web Developers users groups have joined to focus on the broader topics related to software engineering, application development, web development and mobile development.  
 
