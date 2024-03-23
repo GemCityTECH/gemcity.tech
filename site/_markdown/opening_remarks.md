@@ -29,7 +29,7 @@ We have a variety of special interest groups representing different technical di
 ::::
 :::
 
-## GemCity Tech
+## GemCity TECH
 
 :::{.columns}
 ::::{.column width=75%}
@@ -69,7 +69,7 @@ Currently, supports several special interest groups from a variety of technical 
 
 :::{.columns}
 ::::{.column width=30%}
-#### Gem City Tech
+#### GemCity TECH
 ![](./img/logo/GCTLogo.png)
 ::::
 ::::{.column width=30%}
