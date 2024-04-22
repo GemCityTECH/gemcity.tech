@@ -27,6 +27,7 @@ We have a variety of special interest groups representing different technical di
 <strong><a style="background-color: pink; padding: 10px" href="https://secure.givelively.org/donate/gem-city-tech/gemcity-tech-pizza-support">Would you like to make a donation to help offset pizza expense?</a></strong>
 
 ## What's changing in 2024?
+
 - The Dayton Web Developers users groups have joined to focus on the broader topics related to software engineering, application development, web development and mobile development.  
 
   We will still meet on the same nights (the 1st Wednesday and the 2nd Thursday) but both we will not stay in the borders of web or .NET topics for either night.  
@@ -41,18 +42,19 @@ We have a variety of special interest groups representing different technical di
 --- | --- | --- | ---
 [![Code for Dayton](CodeForDayton.png)](https://www.codefordayton.org/) | **Code For Dayton** A monthly user group meeting that follows the "hack night" format - a little discussion and show and tell up front, followed by an opportunity to break into groups to work on civic or community oriented projects.|David Best|1st Tuesday @6pm 
 ![Software Engineer](GCTSquareWhiteForeground.png) | **Software Engineering** (Formerly The Dayton Web Developers) - general topics around being a modern software, application, web or mobile developer | Hanen Alkhafaji, James, Carr &amp; Allen May | 1st Wednesdays @6pm 
-![New To Tech](New_To_Tech_Mascot.png) | **New to Tech** - A public group focused on folks who are just starting to learn about software development, up through those already employed in the industry who are targeting their first promotion. Topics will be split between software development fundamentals & career guidance and there will be plenty of time for group discussion & live coding. Please bring your laptop!| Matt Alioto | 1st Thursday @6pm  
+![New To Tech](New_To_Tech_Mascot.png) | **New to Tech** - A public group focused on folks who are just starting to learn about software development, up through those already employed in the industry who are targeting their first promotion. Topics will be split between software development fundamentals & career guidance and there will be plenty of time for group discussion & live coding. Please bring your laptop!| Matt Alioto | 1st and 3rd Thursdays @6pm  
 ![Software Engineer](GCTSquareWhiteForeground.png) | **Software Engineering** (Formerly the .NET Developers user groups) - general topics around being a modern software, application, web or mobile developer | Hanen Alkhafaji, James, Carr &amp; Allen May | 2nd Tuesday @6pm  
 ![Cognitive Think Tank](CognitiveThinkTank.png) | **Cognitive Think Tank** _(VIRTUAL ONLY)_ - Our Mission is to get people thinking, share diverse perspectives, generate rich discussion in our community about the tools and techniques we are all using, and make connections with like minded professionals! _(This group meets online)_ | Layla Akilan &amp; Damon Troncone | 2nd Wednesdays @5pm 
 [![Dynamic Languages Group](DDLLogo.png)](http://d8ndl.org/)  | **Dayton Dynamic Languages** - Casual discussions and demonstrations that lean towards Ruby/Rails, Python/Django, Scheme, Lisp & Smalltalk | Catherine Devlin | 2nd Wednesdays @7pm 
 ![Dayton .Net Developers](DaytonDotNet.png) | **Dayton .NET Developers** - Helping software developers, technical leads, and managers keep in touch with .NET-related technologies. | Hanen Alkhafaji | 2nd Tuesdays @6pm
 ![Gem City Game Developers](GemCityGameDevelopers.png) | **Gem City Game Developers** - Exploring all topics around gaming and the gaming industry. We explore design, art, programming, digital and non-digital game topics. | Brian Turner | 2nd Thursdays @5:30pm
-![](gem_city_social.png) | **Gem City ML / AI** For professionals who are curious about machine learning and meeting with like minded professionals. | Evelyn Boettcher | 3rd Thursdays @6pm
+![Gem City ML / AI](gem_city_social.png) | **Gem City ML / AI** For professionals who are curious about machine learning and meeting with like minded professionals. | Evelyn Boettcher | 3rd Thursdays @6pm
 
-Resources:  
-  - [Generic opening slides](https://docs.google.com/presentation/d/1T8XDGWylhhdNcMRqnTvhAMQVGRyjBGr5X2-G0PB23TE/edit?usp=sharing)
-  - [Trifold Brochure](_site/assets/../../assets/TrifoldBrochure.png) 
-  - [Resource Links](notes/ResourceLinks.html)
+Resources:
+
+- [Generic opening slides](https://docs.google.com/presentation/d/1T8XDGWylhhdNcMRqnTvhAMQVGRyjBGr5X2-G0PB23TE/edit?usp=sharing)
+- [Trifold Brochure](_site/assets/../../assets/TrifoldBrochure.png) 
+- [Resource Links](notes/ResourceLinks.html)
 
 Currently, all meetings are at the Innovation Hub at the Downtown Dayton Arcade Building.  
 
@@ -77,7 +79,8 @@ All events are listed on the <a href="https://www.meetup.com/gem-city-tech/event
 </div>
 
 ## Opportunities
-  - [Southwest Ohio Hiring Tech Companies](https://docs.google.com/document/d/1LrXH8y7deTrxpOxs2pGrwvXUVVNNvMtSPJqStEllQNE/edit) - A list of local businesses that would be of interest for a new job in tech.
+
+- [Southwest Ohio Hiring Tech Companies](https://docs.google.com/document/d/1LrXH8y7deTrxpOxs2pGrwvXUVVNNvMtSPJqStEllQNE/edit) - A list of local businesses that would be of interest for a new job in tech.
 
 ## Connect with us
   [<img src="meetup-logo-script.png" alt="Meetup logo with link to GemCity TECH event calendar on Meetup" style="width: 9vw; margin-right: 20px;" />](https://www.meetup.com/gem-city-tech) <span style="font-size: xxx-large;">|</span>
@@ -136,5 +139,3 @@ by Bulent Tastan
 <strong>September 1, 2021</strong> Dayton Web Developers - Sharing the history of the Dayton Web Developers and the plans for the future with GemCity TECH  
 by Allen May
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZD_1LJaXpBE" title="Sharing the history of the Dayton Web Developers and the plans for the future with GemCity TECH" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
