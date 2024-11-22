@@ -74,7 +74,7 @@ website:
         
 format:
   html:
-    theme: [default. gct.scss]
+    theme: [default, gct.scss]
     css: gct.css
     toc: true
 
