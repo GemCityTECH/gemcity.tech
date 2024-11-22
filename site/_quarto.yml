@@ -6,7 +6,7 @@ website:
   title: "GemCity.TECH"
   google-analytics: "G-V4KPBE7F1S"
   page-footer: 
-    center: "Copyright 2023 GemCity.TECH"
+    center: "Copyright 2024 GemCity.TECH"
   repo-url: https://github.com/GemCityTECH/gemcity.tech
   repo-actions: [ issue ]
   open-graph:
@@ -29,7 +29,7 @@ website:
             text: "About"
           - href: GCT_board.qmd
             text: "Board Members"
-          - href: codeOfConduct.qmd
+          - href: code_of_conduct.qmd
             text: "Code of Conduct"
       - text: Resources
         menu:
@@ -77,6 +77,3 @@ format:
     theme: [default, gct.scss]
     css: gct.css
     toc: true
-
-
-

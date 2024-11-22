@@ -4,7 +4,7 @@ title: "About"
 
 ## Mission
 
-{{< include _markdown/MissionStatement.md >}}
+{{< include _markdown/mission_statement.md >}}
 
 ## Our Groups
 

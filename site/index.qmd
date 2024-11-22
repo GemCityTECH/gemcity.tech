@@ -8,7 +8,7 @@ title: "GemCity.TECH"
 com·mu·ni·ty
 2. a feeling of fellowship with others, as a result of sharing common attitudes, interests, and goals.
 ```
-{{< include _markdown/MissionStatement.md >}}
+{{< include _markdown/mission_statement.md >}}
 
 ## Save the Date
 
