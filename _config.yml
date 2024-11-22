@@ -1,8 +1,0 @@
-theme: jekyll-theme-cayman
-title: GemCity TECH
-github:
-  is_project_page: false
-
-markdown: kramdown
-kramdown:
-   auto_ids: true
