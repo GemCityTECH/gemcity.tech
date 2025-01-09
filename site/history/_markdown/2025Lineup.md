@@ -1,8 +1,8 @@
 ---
 layout: default
-title: GemCity TECH - History - 2024 Lineup
+title: GemCity TECH - History - 2025 Lineup
 ---
-2024
+2025
 In 2023, we became a 501c.3 non Profit!
 
 Also, we added the **Gem City Mechatronics** and **Autonomous Miami Valley** user groups. Sadly, these two groups would not carry on into 2024.
