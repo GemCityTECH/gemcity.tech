@@ -16,8 +16,7 @@ title: GemCity TECH - History - 2024 Lineup
 
 All user groups are free and open to the public. 
 
-export const quartoRawHtml =
-[`
+{{< rawhtml >}}
  <div class="user-groups">
    <div class="user-group">
      <div class="logo">
@@ -63,6 +62,7 @@ export const quartoRawHtml =
    </div>
    <!-- Add more user groups as needed -->
  </div>
+{{< /rawhtml >}}
 
 ### Meeting Location
 
@@ -76,4 +76,3 @@ Currently, all meetings are at the Innovation Hub at the Downtown Dayton Arcade 
 [<img src="img/logo/meetup-logo-script.png" alt="Meetup logo with link to GemCity TECH event calendar on Meetup" style="width: 9vw; margin-right: 20px;" />](https://www.meetup.com/gem-city-tech) <span style="font-size: xxx-large;">|</span>
   [<img src="img/logo/Discord-Logo+Wordmark-Color.png" alt="Discord logo with link to GemCity TECH Discord server" style="width: 10vw; margin-right: 20px;" />](https://discord.gg/tseSTARJas) <span style="font-size: xxx-large;">|</span> 
   [<img src="img/logo/LI-Logo.png" alt="Linkedin logo with link to GemCity TECH Linkedin profile" style="width: 10vw; margin-right: 20px;" />](https://www.linkedin.com/company/gemcitytech)
-`];
