@@ -24,7 +24,7 @@ com·mu·ni·ty
 
 All user groups are free and open to the public. 
 
-{{< include _markdown/groups.md >}}
+{{< include _markdown/groups3.md >}}
 
 ### Meeting Location
 
