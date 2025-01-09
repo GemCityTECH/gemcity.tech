@@ -42,6 +42,10 @@ website:
         
       - text: History
         menu:
+          - href: history/2025.qmd
+            text: "2025"
+          - href: history/2024.qmd
+            text: "2024"
           - href: history/2023.qmd
             text: "2023"
           - href: history/2022.qmd
