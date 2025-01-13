@@ -16,63 +16,12 @@ title: GemCity TECH - History - 2024 Lineup
 
 All user groups are free and open to the public. 
 
-{{< rawhtml >}}
- <div class="user-groups">
-   <div class="user-group">
-     <div class="logo">
-       <a href="https://www.codefordayton.org/">
-         <img src="img/groups/CodeForDayton.png" alt="Code for Dayton">
-       </a>
-     </div>
-     <div class="details">
-       <strong>Code For Dayton</strong> A monthly user group meeting that follows the "hack night" format - a little discussion and show and tell up front, followed by an opportunity to break into groups to work on civic or community oriented projects.
-     </div>
-     <div class="organizer">David Best</div>
-     <div class="time">1st Tuesday @6pm</div>
-   </div>
-   <div class="user-group">
-     <div class="logo">
-       <img src="img/logo/GCTSquare.png" alt="Software Engineer">
-     </div>
-     <div class="details">
-       <strong>Software Engineering</strong> (Formerly The Dayton Web Developers and .NET Developers user groups) - general topics around being a modern software, application, web or mobile developer
-     </div>
-     <div class="organizer">Hanen Alkhafaji, James Carr &amp; Allen May</div>
-     <div class="time">1st Wednesdays and 2nd Tuesdays @6pm</div>
-   </div>
-   <div class="user-group">
-     <div class="logo">
-       <img src="img/groups/New_To_Tech_Mascot.png" alt="New To Tech">
-     </div>
-     <div class="details">
-       <strong>New to Tech</strong> - A public group focused on folks who are just starting to learn about software development, up through those already employed in the industry who are targeting their first promotion. Topics will be split between software development fundamentals & career guidance and there will be plenty of time for group discussion & live coding. Please bring your laptop!
-     </div>
-     <div class="organizer">Matt Alioto</div>
-     <div class="time">1st Thursday @6pm</div>
-   </div>
-   <div class="user-group">
-     <div class="logo">
-       <img src="img/groups/CognitiveThinkTank.png" alt="Cognitive Think Tank">
-     </div>
-     <div class="details">
-       <strong>Cognitive Think Tank</strong> - Description of the group.
-     </div>
-     <div class="organizer">Organizer Name</div>
-     <div class="time">Meeting Time</div>
-   </div>
-   <!-- Add more user groups as needed -->
- </div>
-{{< /rawhtml >}}
-
-### Meeting Location
-
-Currently, all meetings are at the Innovation Hub at the Downtown Dayton Arcade Building.
-
-#### The Innovation Hub
-31 South Main Street Dayton, OH
-
-## Connect With Us
-
-[<img src="img/logo/meetup-logo-script.png" alt="Meetup logo with link to GemCity TECH event calendar on Meetup" style="width: 9vw; margin-right: 20px;" />](https://www.meetup.com/gem-city-tech) <span style="font-size: xxx-large;">|</span>
-  [<img src="img/logo/Discord-Logo+Wordmark-Color.png" alt="Discord logo with link to GemCity TECH Discord server" style="width: 10vw; margin-right: 20px;" />](https://discord.gg/tseSTARJas) <span style="font-size: xxx-large;">|</span> 
-  [<img src="img/logo/LI-Logo.png" alt="Linkedin logo with link to GemCity TECH Linkedin profile" style="width: 10vw; margin-right: 20px;" />](https://www.linkedin.com/company/gemcitytech)
+ Logo | User Group | Organizer | Meeting Time 
+--- | --- | --- | ---
+[![Code for Dayton](../img/groups/CodeForDayton.png)](https://www.codefordayton.org/) | **Code For Dayton** A monthly user group meeting that follows the "hack night" format - a little discussion and show and tell up front, followed by an opportunity to break into groups to work on civic or community oriented projects.|David Best|1st Tuesday @6pm 
+![Software Engineering](../img/logo/GCTSquare.png) |Formerly The Dayton Web Developers and .NET Developers user groups) - general topics around being a modern software, application, web or mobile developer | Hanen Alkhafaji & Allen May | 1st Wednesdays and 2nd Tuesdays @6pm
+![New To Tech](../img/groups/New_To_Tech_Mascot.png) | **New to Tech** - A public group focused on folks who are just starting to learn about software development, up through those already employed in the industry who are targeting their first promotion. Topics will be split between software development fundamentals & career guidance and there will be plenty of time for group discussion & live coding. Please bring your laptop!| Matt Alioto | 1st Thursday @6pm  
+![Cognitive Think Tank](../img/groups/CognitiveThinkTank.png) | **Cognitive Think Tank** (VIRTUAL ONLY) - - Our Mission is to get people thinking, share diverse perspectives, generate rich discussion in our community about the tools and techniques we are all using, and make connections with like minded professionals! (This group meets online)| Layla Akilan & Damon Troncone | 2nd Wednesdays @5pm
+[![Dynamic Languages Group](../img/groups/DDLLogo.png)](http://d8ndl.org/)  | **Dayton Dynamic Languages** - Casual discussions and demonstrations that lean towards Ruby/Rails, Python/Django, Scheme, Lisp & Smalltalk | Catherine Devlin | 2nd Wednesdays @7pm 
+![Gem City Game Developers](../img/groups/GemCityGameDevelopers.png) | **Gem City Game Developers** - Exploring all topics around gaming and the gaming industry. We explore design, art, programming, digital and non-digital game topics. | Brian Turner | 2nd Thursdays @5:30pm
+![](../img/groups/gem_city_ml_social.png) | **Gem City ML / AI** For professionals who are curious about machine learning and meeting with like minded professionals. | Evelyn J. Boettcher | 3rd Thursdays @6pm
