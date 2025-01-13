@@ -1,0 +1,7 @@
+<nav>
+    <ul>
+      {% for item in toc %}
+        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>

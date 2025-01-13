@@ -1,12 +1,16 @@
 ---
 format:
     revealjs:
-        incremental: false
+        includes:
+            in-header: ./_includes/metadata.html
+            before-body: ./_includes/title-block.html
+            after-body: ./_includes/toc.html
+        # incremental: false
         theme: [default, gct.scss]
         logo: ./img/logo/GCTSquare.png
         footer: "GemCity.TECH"
-        template-partials:
-            - title-slide.html
+        # template-partials:
+        #     - title-slide.html
             
 title-slide-attributes:
     data-background-image: './img/slide_background.png'
