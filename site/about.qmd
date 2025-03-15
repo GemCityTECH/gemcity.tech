@@ -6,6 +6,10 @@ title: "About"
 
 {{< include _markdown/mission_statement.md >}}
 
+## In the news
+
+[WYSO interview with GemCity TECH](https://www.wyso.org/news/2024-07-16/gem-city-tech-hub-classroom-and-support-group-for-tech-workers-new-and-old)
+
 ## Our Groups
 
 All user groups are free and open to the public. 
