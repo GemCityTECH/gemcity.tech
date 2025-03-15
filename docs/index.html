@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.1.179">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,9 +17,10 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
 pre > code.sourceCode { white-space: pre; position: relative; }
 pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
 pre > code.sourceCode > span:empty { height: 1.2em; }
@@ -46,43 +47,13 @@ pre.numberSource code > span > a:first-child::before
     -khtml-user-select: none; -moz-user-select: none;
     -ms-user-select: none; user-select: none;
     padding: 0 4px; width: 4em;
-    color: #aaaaaa;
   }
-pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
 div.sourceCode
   {   }
 @media screen {
 pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
-code span.al { color: #ff0000; font-weight: bold; } /* Alert */
-code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
-code span.at { color: #7d9029; } /* Attribute */
-code span.bn { color: #40a070; } /* BaseN */
-code span.bu { color: #008000; } /* BuiltIn */
-code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
-code span.ch { color: #4070a0; } /* Char */
-code span.cn { color: #880000; } /* Constant */
-code span.co { color: #60a0b0; font-style: italic; } /* Comment */
-code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
-code span.do { color: #ba2121; font-style: italic; } /* Documentation */
-code span.dt { color: #902000; } /* DataType */
-code span.dv { color: #40a070; } /* DecVal */
-code span.er { color: #ff0000; font-weight: bold; } /* Error */
-code span.ex { } /* Extension */
-code span.fl { color: #40a070; } /* Float */
-code span.fu { color: #06287e; } /* Function */
-code span.im { color: #008000; font-weight: bold; } /* Import */
-code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
-code span.kw { color: #007020; font-weight: bold; } /* Keyword */
-code span.op { color: #666666; } /* Operator */
-code span.ot { color: #007020; } /* Other */
-code span.pp { color: #bc7a00; } /* Preprocessor */
-code span.sc { color: #4070a0; } /* SpecialChar */
-code span.ss { color: #bb6688; } /* SpecialString */
-code span.st { color: #4070a0; } /* String */
-code span.va { color: #19177c; } /* Variable */
-code span.vs { color: #4070a0; } /* VerbatimString */
-code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
 </style>
 
 
@@ -119,7 +90,8 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-V4KPBE7F1S"></script>
@@ -152,91 +124,106 @@ gtag('config', 'G-V4KPBE7F1S', { 'anonymize_ip': true});
     <img src="./img/logo/GCTSquareWhiteForeground.png" alt="GemCity.TECH" class="navbar-logo">
     </a>
   </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page">Home</a>
+    <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
+ <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false">About</a>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">About</span>
+    </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-about">    
         <li>
-    <a class="dropdown-item" href="./about.html">
+    <a class="dropdown-item" href="./about.html" rel="" target="">
  <span class="dropdown-text">About</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./GCT_board.html">
+    <a class="dropdown-item" href="./GCT_board.html" rel="" target="">
  <span class="dropdown-text">Board Members</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./code_of_conduct.html">
+    <a class="dropdown-item" href="./code_of_conduct.html" rel="" target="">
  <span class="dropdown-text">Code of Conduct</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-resources" role="button" data-bs-toggle="dropdown" aria-expanded="false">Resources</a>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-resources" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">Resources</span>
+    </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-resources">    
         <li>
-    <a class="dropdown-item" href="./opening_remarks.html">
+    <a class="dropdown-item" href="./opening_remarks.html" rel="" target="">
  <span class="dropdown-text">Opening Slides</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./img/GemCity_trifold.pdf">
+    <a class="dropdown-item" href="./img/GemCity_trifold.pdf" rel="" target="">
  <span class="dropdown-text">Brochure</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./opportunities.html">
+    <a class="dropdown-item" href="./opportunities.html" rel="" target="">
  <span class="dropdown-text">Opportunities</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-history" role="button" data-bs-toggle="dropdown" aria-expanded="false">History</a>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-history" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">History</span>
+    </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-history">    
         <li>
-    <a class="dropdown-item" href="./history/2025.html">
+    <a class="dropdown-item" href="./history/2025.html" rel="" target="">
  <span class="dropdown-text">2025</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./history/2024.html">
+    <a class="dropdown-item" href="./history/2024.html" rel="" target="">
  <span class="dropdown-text">2024</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./history/2023.html">
+    <a class="dropdown-item" href="./history/2023.html" rel="" target="">
  <span class="dropdown-text">2023</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./history/2022.html">
+    <a class="dropdown-item" href="./history/2022.html" rel="" target="">
  <span class="dropdown-text">2022</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./history/2021.html">
+    <a class="dropdown-item" href="./history/2021.html" rel="" target="">
  <span class="dropdown-text">2021</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-sponsor" role="button" data-bs-toggle="dropdown" aria-expanded="false">Sponsor</a>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-sponsor" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">Sponsor</span>
+    </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-sponsor">    
         <li>
-    <a class="dropdown-item" href="./current_sponsors.html">
+    <a class="dropdown-item" href="./current_sponsors.html" rel="" target="">
  <span class="dropdown-text">Current Sponsors</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./sponsor.html">
+    <a class="dropdown-item" href="./sponsor.html" rel="" target="">
  <span class="dropdown-text">Sponsor</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./donate.html">Donate</a>
+    <a class="nav-link" href="./donate.html" rel="" target="">
+ <span class="menu-text">Donate</span></a>
   </li>  
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools ms-auto tools-wide">
+    <a href="https://discord.gg/nyDtEytbt6" rel="" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-discord"></i></a>
+    <a href="https://www.meetup.com/gem-city-tech/" rel="" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-calendar3-week"></i></a>
+    <a href="https://www.linkedin.com/company/gemcitytech" rel="" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-linkedin"></i></a>
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -251,7 +238,8 @@ gtag('config', 'G-V4KPBE7F1S', { 'anonymize_ip': true});
    
   <ul>
   <li><a href="#mission-brief" id="toc-mission-brief" class="nav-link active" data-scroll-target="#mission-brief">Mission Brief</a></li>
-  <li><a href="#what-changed-in-2024" id="toc-what-changed-in-2024" class="nav-link" data-scroll-target="#what-changed-in-2024">What changed in 2024?</a></li>
+  <li><a href="#save-the-date" id="toc-save-the-date" class="nav-link" data-scroll-target="#save-the-date">Save the Date</a></li>
+  <li><a href="#what-changed-in-2025" id="toc-what-changed-in-2025" class="nav-link" data-scroll-target="#what-changed-in-2025">What changed in 2025?</a></li>
   <li><a href="#our-family-of-user-groups" id="toc-our-family-of-user-groups" class="nav-link" data-scroll-target="#our-family-of-user-groups">Our family of user groups:</a>
   <ul class="collapse">
   <li><a href="#meeting-location" id="toc-meeting-location" class="nav-link" data-scroll-target="#meeting-location">Meeting Location</a></li>
@@ -273,6 +261,7 @@ gtag('config', 'G-V4KPBE7F1S', { 'anonymize_ip': true});
 <div class="quarto-title-meta">
 
     
+  
     
   </div>
   
@@ -286,13 +275,16 @@ gtag('config', 'G-V4KPBE7F1S', { 'anonymize_ip': true});
 <p><strong>GemCity TECH</strong>’s mission is to grow the local industry and the community by providing a centralized destination for technical training, workshops and collaborating. We are the destination for those who are passionate about a wide range of technology topics and we provide a community space that encourages diversity, knowledge sharing, and collaboration through meetups, workshops, collaboration sessions and conferences.</p>
 <p>Join us to nurture your passion for technology and be a part of shaping the future of the GemCity TECH community.</p>
 </section>
-<section id="what-changed-in-2024" class="level2">
-<h2 class="anchored" data-anchor-id="what-changed-in-2024">What changed in 2024?</h2>
+<section id="save-the-date" class="level2">
+<h2 class="anchored" data-anchor-id="save-the-date">Save the Date</h2>
+<p>We are hosting a potluck Saturday, April 12th, 2025 from 10am till 3pm at The Hub..</p>
+<p><img src="./img/gct_banner_ex10.png" class="img-fluid"></p>
+</section>
+<section id="what-changed-in-2025" class="level2">
+<h2 class="anchored" data-anchor-id="what-changed-in-2025">What changed in 2025?</h2>
 <ul>
-<li><p>The Dayton Web Developers users groups have joined to focus on the broader topics related to software engineering, application development, web development and mobile development.</p>
-<p>We will still meet on the same nights (the 1st Wednesday and the 2nd Thursday) but both we will not stay in the borders of web or .NET topics for either night.</p>
-<p>This new structure will be organized by Hanen Alkhafaji, James, Carr &amp; Allen May</p></li>
-<li><p><strong>Cognitive Think Tank</strong> has joined the GemCity TECH family and will be meeting the 2nd Wednesday of the month online only. Welcome to the leadership team Layla Akilan &amp; Damon Troncone.</p></li>
+<li><p>Dayton Web Developers, GemCity ML and .NET Develoipers user group has been combined to a single event called <strong>Tech Roulette Night</strong>.</p></li>
+<li><p>STIR Treck, official sponsers: <a href="https://stirtrek.com/sponsors/">Friday May 2nd 2025</a></p></li>
 </ul>
 </section>
 <section id="our-family-of-user-groups" class="level2">
@@ -309,31 +301,31 @@ gtag('config', 'G-V4KPBE7F1S', { 'anonymize_ip': true});
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="https://www.codefordayton.org/"><img src="../img/groups/CodeForDayton.png" class="img-fluid" alt="Code for Dayton"></a></td>
+<td><a href="https://www.codefordayton.org/"><img src="./img/groups/CodeForDayton.png" class="img-fluid" alt="Code for Dayton"></a></td>
 <td><strong>Code For Dayton</strong> A monthly user group meeting that follows the “hack night” format - a little discussion and show and tell up front, followed by an opportunity to break into groups to work on civic or community oriented projects.</td>
 <td>David Best</td>
 <td>1st Tuesday <span class="citation" data-cites="6pm">@6pm</span></td>
 </tr>
 <tr class="even">
-<td><img src="../img/logo/GCTSquare.png" class="img-fluid" alt="Software Engineering"></td>
-<td>Formerly The Dayton Web Developers and .NET Developers user groups) - general topics around being a modern software, application, web or mobile developer</td>
-<td>Hanen Alkhafaji &amp; Allen May</td>
-<td>1st Wednesdays <span class="citation" data-cites="6pm">@6pm</span></td>
+<td><img src="./img/logo/GCTSquare.png" class="img-fluid" alt="Tech Roulette"></td>
+<td>Formerly GemCity ML and Software Engineering user groups) - general topics around being a modern software, application, web or mobile developer</td>
+<td>Hanen Alkhafaji, Evelyn Boettcher &amp; Allen May</td>
+<td>2nd Tuesdays <span class="citation" data-cites="6pm">@6pm</span></td>
 </tr>
 <tr class="odd">
-<td><a href="http://d8ndl.org/"><img src="../img/groups/DDLLogo.png" class="img-fluid" alt="Dynamic Languages Group"></a></td>
+<td><a href="http://d8ndl.org/"><img src="./img/groups/DDLLogo.png" class="img-fluid" alt="Dynamic Languages Group"></a></td>
 <td><strong>Dayton Dynamic Languages</strong> - Casual discussions and demonstrations that lean towards Ruby/Rails, Python/Django, Scheme, Lisp &amp; Smalltalk</td>
 <td>Catherine Devlin</td>
 <td>2nd Wednesdays <span class="citation" data-cites="7pm">@7pm</span></td>
 </tr>
 <tr class="even">
-<td><img src="../img/groups/GemCityGameDevelopers.png" class="img-fluid" alt="Gem City Game Developers"></td>
+<td><img src="./img/groups/GemCityGameDevelopers.png" class="img-fluid" alt="Gem City Game Developers"></td>
 <td><strong>Gem City Game Developers</strong> - Exploring all topics around gaming and the gaming industry. We explore design, art, programming, digital and non-digital game topics.</td>
 <td>Brian Turner</td>
 <td>2nd Thursdays <span class="citation" data-cites="5:30pm">@5:30pm</span></td>
 </tr>
 <tr class="odd">
-<td><img src="../img/groups/hdayton.png" class="img-fluid" alt="Hack Dayton"></td>
+<td><img src="./img/groups/hdayton.png" class="img-fluid" alt="Hack Dayton"></td>
 <td><strong>Hack Dayton</strong> A monthly hacker meet-up focus on sharing knowledge and hands experiences around the offensive cybersecurity industry in the Dayton area.</td>
 <td>Brett Ewing</td>
 <td>The last Friday <span class="citation" data-cites="5pm">@5pm</span></td>
@@ -384,9 +376,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -398,7 +404,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -434,31 +457,141 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
 });
 </script>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-      <div class="nav-footer-center">Copyright 2025 GemCity.TECH</div>
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">Copyright 2025 GemCity.TECH</div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
   </div>
 </footer>
 

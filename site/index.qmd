@@ -10,15 +10,22 @@ com·mu·ni·ty
 ```
 {{< include _markdown/mission_statement.md >}}
 
-## What changed in 2024?
 
-- The Dayton Web Developers users groups have joined to focus on the broader topics related to software engineering, application development, web development and mobile development.  
+## Save the Date
 
-  We will still meet on the same nights (the 1st Wednesday and the 2nd Thursday) but both we will not stay in the borders of web or .NET topics for either night.  
+We are hosting a potluck Saturday, April 12th, 2025 from 10am till 3pm at The Hub..
 
-  This new structure will be organized by Hanen Alkhafaji, James, Carr &amp; Allen May
 
-- **Cognitive Think Tank** has joined the GemCity TECH family and will be meeting the 2nd Wednesday of the month online only. Welcome to the leadership team Layla Akilan &amp; Damon Troncone.
+![](./img/gct_banner_ex10.png)
+
+
+
+
+## What changed in 2025?
+
+- Dayton Web Developers, GemCity ML and .NET Develoipers user group has been combined to a single event called **Tech Roulette Night**.  
+
+- STIR Treck, official sponsers: [Friday May 2nd 2025](https://stirtrek.com/sponsors/)
 
 ## Our family of user groups:
 

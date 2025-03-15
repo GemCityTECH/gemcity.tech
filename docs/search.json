@@ -1,7 +1,42 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "GemCity TECH’s mission is to grow the local industry and the community by providing a centralized destination for technical training, workshops and collaborating. We are the destination for those who are passionate about a wide range of technology topics and we provide a community space that encourages diversity, knowledge sharing, and collaboration through meetups, workshops, collaboration sessions and conferences.\nJoin us to nurture your passion for technology and be a part of shaping the future of the GemCity TECH community."
+  },
+  {
+    "objectID": "about.html#mission",
+    "href": "about.html#mission",
+    "title": "About",
+    "section": "",
+    "text": "GemCity TECH’s mission is to grow the local industry and the community by providing a centralized destination for technical training, workshops and collaborating. We are the destination for those who are passionate about a wide range of technology topics and we provide a community space that encourages diversity, knowledge sharing, and collaboration through meetups, workshops, collaboration sessions and conferences.\nJoin us to nurture your passion for technology and be a part of shaping the future of the GemCity TECH community."
+  },
+  {
+    "objectID": "about.html#our-groups",
+    "href": "about.html#our-groups",
+    "title": "About",
+    "section": "Our Groups",
+    "text": "Our Groups\nAll user groups are free and open to the public.\n\n\n\nLogo\nUser Group\nOrganizer\nMeeting Time\n\n\n\n\n\nCode For Dayton A monthly user group meeting that follows the “hack night” format - a little discussion and show and tell up front, followed by an opportunity to break into groups to work on civic or community oriented projects.\nDavid Best\n1st Tuesday @6pm\n\n\n\nFormerly GemCity ML and Software Engineering user groups) - general topics around being a modern software, application, web or mobile developer\nHanen Alkhafaji, Evelyn Boettcher & Allen May\n2nd Tuesdays @6pm\n\n\n\nDayton Dynamic Languages - Casual discussions and demonstrations that lean towards Ruby/Rails, Python/Django, Scheme, Lisp & Smalltalk\nCatherine Devlin\n2nd Wednesdays @7pm\n\n\n\nGem City Game Developers - Exploring all topics around gaming and the gaming industry. We explore design, art, programming, digital and non-digital game topics.\nBrian Turner\n2nd Thursdays @5:30pm\n\n\n\nHack Dayton A monthly hacker meet-up focus on sharing knowledge and hands experiences around the offensive cybersecurity industry in the Dayton area.\nBrett Ewing\nThe last Friday @5pm\n\n\n\n\nMeeting Location\nCurrently, all meetings are at the Innovation Hub at the Downtown Dayton Arcade Building.\n\nThe Innovation Hub\n31 South Main Street Dayton, OH"
+  },
+  {
+    "objectID": "about.html#past-events",
+    "href": "about.html#past-events",
+    "title": "About",
+    "section": "Past Events",
+    "text": "Past Events\n\nVideos of recent meetings\nMay 3, 2023 Dayton Web Developers: Augmented Development with AI by Bryan Braun\n\nDecember 7, 2022 Dayton Web Developers: Exploring the value of JavaScript frameworks by Seth White \nNovember 17, 2021 Dayton Frontend Dev: Intro to Figma design and Next JS\nby Noelle Lansford & Bulent Tastan\n\nNovember 16, 2021 New to the Web - Getting Started with JSON Web Tokens\nby Davis Sanders \nNovember 10, 2021 The Dynamic Languages Group - Tutorial: Handling Large Data with Python Pandas\nby Evelyn Boettcher \nNovember 6, 2021 Dayton Web Developers: Visual Studio Code - The Swiss Army Knife of Editors\nby James Carr \nOctober 20, 2021 GemCity TECH: Building Decentralized Apps on Blockchain\nby Bulent Tastan \nSeptember 1, 2021 Dayton Web Developers - Sharing the history of the Dayton Web Developers and the plans for the future with GemCity TECH\nby Allen May"
+  },
+  {
     "objectID": "sponsor.html",
     "href": "sponsor.html",
+    "title": "Sponsoring",
+    "section": "",
+    "text": "GemCity TECH is a 501(c)3 non-profit organization that supports the local technical community in the Dayton, Ohio area by offering relevant training and development opportunities for both individual users and businesses. We provide a platform for multiple monthly events, workshops and conferences focused on raising the technical skills in the Southwest Ohio region.\nWe are seeking partners who share our mission to provide high-value content to the local community. By partnering with us, you will have the opportunity to reach a motivated and engaged technical demographic, including technologists, software developers, and business decision makers."
+  },
+  {
+    "objectID": "sponsor.html#gemcity-tech-sponsorship",
+    "href": "sponsor.html#gemcity-tech-sponsorship",
     "title": "Sponsoring",
     "section": "",
     "text": "GemCity TECH is a 501(c)3 non-profit organization that supports the local technical community in the Dayton, Ohio area by offering relevant training and development opportunities for both individual users and businesses. We provide a platform for multiple monthly events, workshops and conferences focused on raising the technical skills in the Southwest Ohio region.\nWe are seeking partners who share our mission to provide high-value content to the local community. By partnering with us, you will have the opportunity to reach a motivated and engaged technical demographic, including technologists, software developers, and business decision makers."
@@ -25,7 +60,7 @@
     "href": "sponsor.html#annual-sponsoring-levels-to-ensure-our-success",
     "title": "Sponsoring",
     "section": "Annual sponsoring levels to ensure our success",
-    "text": "Annual sponsoring levels to ensure our success\nSponsoring GemCity TECH gives your company a terrific marketing channel to reach a group of highly motivated technologists. You’ll also be contributing to helping the region’s technology community continue to grow and improve their skills. GemCity TECH is a 501(c)(3) nonprofit organization; your sponsorship contributions can be submitted for tax deductions under IRC Section 170.\n\nPLATINUM - ALL USER GROUPS\n\nAnnual Sponsorship – Cost: $4,500 per year\n\nLogo and website link displayed at the beginning of each meetup.\nLogo and link added to our website’s Sponsors page along with a 100 word description.\n100 words or less including your company website link included in notifications to all GemCity TECH members.\nWeekly posting of job opportunities posted to our Discord Job channel.\n\n\n\nEXCLUSIVE WITH THIS PACKAGE\n\nTwo invitations to attend an event of your choice to give a five to ten minute presentation to our members about your company, its products, and services prior to the planned meeting. (Only available in this package)\nYour business logo embedded into the GemCity TECH meetup page banner.\n\n\n\n\nGOLD - ALL USER GROUPS\n\nAnnual Sponsorship – Cost: $2,500 per year\nLogo and website link displayed at the beginning of each meetup.\nName and logo included in notifications to all GemCity TECH members.\nLogo and link added to our website’s Sponsors page along with a 100 word description.\nMonthly posting of job opportunities posted to our Discord Job channel.\n\n\n\nSILVER - ALL USER GROUPS\n\nAnnual Sponsorship – Cost: $1,250 per year\n\nLogo and website link displayed at the beginning of each meetup.\nName and logo included in notifications to all GemCity TECH members.\nLogo and link added to our website’s Sponsors page\n\n\n\nINDIVIDUAL (individual or company < 3 people only)\n\nAnnual Sponsorship – Cost: $250 per year\nName added at beginning of a given group meetup (optional)\nName added to our website’s Sponsors page (optional)\n\n\nThese sponsorships only apply to regularly scheduled GemCity TECH meetings, not special events.\nFor further information on GemCity TECH, please use the following links to learn more about us.\n\nWebsite: https://www.gemcity.tech\nMeetup: https://www.meetup.com/gem-city-tech\nDiscord: https://discord.gg/nyDtEytbt6\nLinkedIn: https://www.linkedin.com/company/gemcitytech\n\nThank you in advance for considering supporting GemCity TECH!\nPlease make a check payable to GemCity TECH."
+    "text": "Annual sponsoring levels to ensure our success\nSponsoring GemCity TECH gives your company a terrific marketing channel to reach a group of highly motivated technologists. You’ll also be contributing to helping the region’s technology community continue to grow and improve their skills. GemCity TECH is a 501(c)(3) nonprofit organization; your sponsorship contributions can be submitted for tax deductions under IRC Section 170.\n\nPLATINUM - ALL USER GROUPS\n\nAnnual Sponsorship – Cost: $4,500 per year\n\nLogo and website link displayed at the beginning of each meetup.\nLogo and link added to our website’s Sponsors page along with a 100 word description.\n100 words or less including your company website link included in notifications to all GemCity TECH members.\nWeekly posting of job opportunities posted to our Discord Job channel.\n\n\n\nEXCLUSIVE WITH THIS PACKAGE\n\nTwo invitations to attend an event of your choice to give a five to ten minute presentation to our members about your company, its products, and services prior to the planned meeting. (Only available in this package)\nYour business logo embedded into the GemCity TECH meetup page banner.\n\n\n\n\nGOLD - ALL USER GROUPS\n\nAnnual Sponsorship – Cost: $2,500 per year\nLogo and website link displayed at the beginning of each meetup.\nName and logo included in notifications to all GemCity TECH members.\nLogo and link added to our website’s Sponsors page along with a 100 word description.\nMonthly posting of job opportunities posted to our Discord Job channel.\n\n\n\nSILVER - ALL USER GROUPS\n\nAnnual Sponsorship – Cost: $1,250 per year\n\nLogo and website link displayed at the beginning of each meetup.\nName and logo included in notifications to all GemCity TECH members.\nLogo and link added to our website’s Sponsors page\n\n\n\nINDIVIDUAL (individual or company &lt; 3 people only)\n\nAnnual Sponsorship – Cost: $250 per year\nName added at beginning of a given group meetup (optional)\nName added to our website’s Sponsors page (optional)\n\n\nThese sponsorships only apply to regularly scheduled GemCity TECH meetings, not special events.\nFor further information on GemCity TECH, please use the following links to learn more about us.\n\nWebsite: https://www.gemcity.tech\nMeetup: https://www.meetup.com/gem-city-tech\nDiscord: https://discord.gg/nyDtEytbt6\nLinkedIn: https://www.linkedin.com/company/gemcitytech\n\nThank you in advance for considering supporting GemCity TECH!\nPlease make a check payable to GemCity TECH."
   },
   {
     "objectID": "index.html",
@@ -35,18 +70,32 @@
     "text": "com·mu·ni·ty\n2. a feeling of fellowship with others, as a result of sharing common attitudes, interests, and goals.\nGemCity TECH’s mission is to grow the local industry and the community by providing a centralized destination for technical training, workshops and collaborating. We are the destination for those who are passionate about a wide range of technology topics and we provide a community space that encourages diversity, knowledge sharing, and collaboration through meetups, workshops, collaboration sessions and conferences.\nJoin us to nurture your passion for technology and be a part of shaping the future of the GemCity TECH community."
   },
   {
-    "objectID": "index.html#what-changed-in-2024",
-    "href": "index.html#what-changed-in-2024",
+    "objectID": "index.html#mission-brief",
+    "href": "index.html#mission-brief",
     "title": "GemCity.TECH",
-    "section": "What changed in 2024?",
-    "text": "What changed in 2024?\n\nThe Dayton Web Developers users groups have joined to focus on the broader topics related to software engineering, application development, web development and mobile development.\nWe will still meet on the same nights (the 1st Wednesday and the 2nd Thursday) but both we will not stay in the borders of web or .NET topics for either night.\nThis new structure will be organized by Hanen Alkhafaji, James, Carr & Allen May\nCognitive Think Tank has joined the GemCity TECH family and will be meeting the 2nd Wednesday of the month online only. Welcome to the leadership team Layla Akilan & Damon Troncone."
+    "section": "",
+    "text": "com·mu·ni·ty\n2. a feeling of fellowship with others, as a result of sharing common attitudes, interests, and goals.\nGemCity TECH’s mission is to grow the local industry and the community by providing a centralized destination for technical training, workshops and collaborating. We are the destination for those who are passionate about a wide range of technology topics and we provide a community space that encourages diversity, knowledge sharing, and collaboration through meetups, workshops, collaboration sessions and conferences.\nJoin us to nurture your passion for technology and be a part of shaping the future of the GemCity TECH community."
+  },
+  {
+    "objectID": "index.html#save-the-date",
+    "href": "index.html#save-the-date",
+    "title": "GemCity.TECH",
+    "section": "Save the Date",
+    "text": "Save the Date\nWe are hosting a potluck Saturday, April 12th, 2025 from 10am till 3pm at The Hub.."
+  },
+  {
+    "objectID": "index.html#what-changed-in-2025",
+    "href": "index.html#what-changed-in-2025",
+    "title": "GemCity.TECH",
+    "section": "What changed in 2025?",
+    "text": "What changed in 2025?\n\nDayton Web Developers, GemCity ML and .NET Develoipers user group has been combined to a single event called Tech Roulette Night.\nSTIR Treck, official sponsers: Friday May 2nd 2025"
   },
   {
     "objectID": "index.html#our-family-of-user-groups",
     "href": "index.html#our-family-of-user-groups",
     "title": "GemCity.TECH",
     "section": "Our family of user groups:",
-    "text": "Our family of user groups:\nAll user groups are free and open to the public.\n\n\n\nLogo\nUser Group\nOrganizer\nMeeting Time\n\n\n\n\n\nCode For Dayton A monthly user group meeting that follows the “hack night” format - a little discussion and show and tell up front, followed by an opportunity to break into groups to work on civic or community oriented projects.\nDavid Best\n1st Tuesday @6pm\n\n\n\nFormerly The Dayton Web Developers and .NET Developers user groups) - general topics around being a modern software, application, web or mobile developer\nHanen Alkhafaji & Allen May\n1st Wednesdays @6pm\n\n\n\nDayton Dynamic Languages - Casual discussions and demonstrations that lean towards Ruby/Rails, Python/Django, Scheme, Lisp & Smalltalk\nCatherine Devlin\n2nd Wednesdays @7pm\n\n\n\nGem City Game Developers - Exploring all topics around gaming and the gaming industry. We explore design, art, programming, digital and non-digital game topics.\nBrian Turner\n2nd Thursdays @5:30pm\n\n\n\nHack Dayton A monthly hacker meet-up focus on sharing knowledge and hands experiences around the offensive cybersecurity industry in the Dayton area.\nBrett Ewing\nThe last Friday @5pm\n\n\n\n\nMeeting Location\nCurrently, all meetings are at the Innovation Hub at the Downtown Dayton Arcade Building.\n\nThe Innovation Hub\n31 South Main Street Dayton, OH"
+    "text": "Our family of user groups:\nAll user groups are free and open to the public.\n\n\n\nLogo\nUser Group\nOrganizer\nMeeting Time\n\n\n\n\n\nCode For Dayton A monthly user group meeting that follows the “hack night” format - a little discussion and show and tell up front, followed by an opportunity to break into groups to work on civic or community oriented projects.\nDavid Best\n1st Tuesday @6pm\n\n\n\nFormerly GemCity ML and Software Engineering user groups) - general topics around being a modern software, application, web or mobile developer\nHanen Alkhafaji, Evelyn Boettcher & Allen May\n2nd Tuesdays @6pm\n\n\n\nDayton Dynamic Languages - Casual discussions and demonstrations that lean towards Ruby/Rails, Python/Django, Scheme, Lisp & Smalltalk\nCatherine Devlin\n2nd Wednesdays @7pm\n\n\n\nGem City Game Developers - Exploring all topics around gaming and the gaming industry. We explore design, art, programming, digital and non-digital game topics.\nBrian Turner\n2nd Thursdays @5:30pm\n\n\n\nHack Dayton A monthly hacker meet-up focus on sharing knowledge and hands experiences around the offensive cybersecurity industry in the Dayton area.\nBrett Ewing\nThe last Friday @5pm\n\n\n\n\nMeeting Location\nCurrently, all meetings are at the Innovation Hub at the Downtown Dayton Arcade Building.\n\nThe Innovation Hub\n31 South Main Street Dayton, OH"
   },
   {
     "objectID": "index.html#connect-with-us",
@@ -54,6 +103,27 @@
     "title": "GemCity.TECH",
     "section": "Connect With Us",
     "text": "Connect With Us\n |  |"
+  },
+  {
+    "objectID": "history/2021.html",
+    "href": "history/2021.html",
+    "title": "GemCity TECH - History - 2021 Lineup",
+    "section": "",
+    "text": "In 2021 we started GemCity TECH with a short list of user groups, mostly carried over from before the Covid pandemic.\nOur family of user groups (in order of monthly occurrence) for the 2021 season:\n\n\n\n\n\n\n\n\nUser Group\nOrganizer\nMeeting Time\n\n\n\n\nDayton Web Developers - general topics around being a modern web developer\nAllen May\n1st Wednesdays @6pm\n\n\nDayton Dynamic Languages - Casual discussions and demonstrations that lean towards Ruby/Rails, Python/Django, Scheme, Lisp & Smalltalk\nCatherine Devlin\n2nd Wednesdays @7pm\n\n\nDayton .NET Developers - Helping software developers, technical leads, and managers keep in touch with .NET-related technologys.\nHanen Alkhafaji\n2nd Thursdays @6pm\n\n\nGem City Game Developers - Exploring all topics around gaming and the gamining industry. We explore design, art, programming, digital and non-digital game topics.\nBrian Turner\n2nd Thursdays @5:30pm\n\n\nNew to The Web - Providing more entry level skill and career building training for those interested in the web or software development industry.\nDavis Sanders\n3rd Tuesdays @6pm"
+  },
+  {
+    "objectID": "history/2023.html",
+    "href": "history/2023.html",
+    "title": "GemCity TECH - History - 2023 Lineup",
+    "section": "",
+    "text": "In 2023, we became a 501c.3 non Profit!\nAlso, we added the Gem City Mechatronics and Autonomous Miami Valley user groups. Sadly, these two groups would not carry on into 2024.\nOur family of user groups (in order of monthly occurrence) for the 2023 season:\n\n\n\nLogo\nUser Group\nOrganizer\nMeeting Time\n\n\n\n\n\nGem City Mechatronics A public community of electronics enthusiasts who gather for informative presentations, workshops, and hands-on lab sessions on topics like electronics, prototyping, circuitry, Raspberry Pi and Arduino projects.\nVibes\n1st Monday @6pm\n\n\n\nCode For Dayton A monthly user group meeting that follows the “hack night” format - a little discussion and show and tell up front, followed by an opportunity to break into groups to work on civic or community oriented projects.\nDavid Best\n1st Tuesday @6pm\n\n\n\nNew to Tech - A public group focused on folks who are just starting to learn about software development, up through those already employed in the industry who are targeting their first promotion. Topics will be split between software development fundamentals & career guidance and there will be plenty of time for group discussion & live coding. Please bring your laptop!\nMatt Alioto\n1st Thursday @6pm\n\n\n\nDayton Web Developers - general topics around being a modern web developer\nAllen May\n1st Wednesdays @6pm\n\n\n\nDayton Dynamic Languages - Casual discussions and demonstrations that lean towards Ruby/Rails, Python/Django, Scheme, Lisp & Smalltalk\nCatherine Devlin\n2nd Wednesdays @7pm\n\n\n\nAutonomous Miami Valley - The Autonomous MV user group is a community of individuals who share an interest in promoting and advancing the use of autonomous technologies. This group encourages the participation of researchers, developers, engineers, entrepreneurs, policymakers, and other stakeholders who are working to create and implement autonomous systems in various industries and applications. We also encourage anyone who is interested in learning more about autonomous systems and supporting technologies for business, academic or personal interest. All are welcome.\nRobert Blackthorn\n3rd Wednesdays @6pm\n\n\n\nDayton .NET Developers - Helping software developers, technical leads, and managers keep in touch with .NET-related technologies.\nHanen Alkhafaji\n2nd Tuesdays @6pm\n\n\n\nGem City Game Developers - Exploring all topics around gaming and the gaming industry. We explore design, art, programming, digital and non-digital game topics.\nBrian Turner\n2nd Thursdays @5:30pm\n\n\n\nGem City ML / AI For professionals who are curious about machine learning and meeting with like minded professionals.\nEvelyn J. Boettcher\n3rd Thursdays @6pm"
+  },
+  {
+    "objectID": "history/2022.html",
+    "href": "history/2022.html",
+    "title": "GemCity TECH - History - 2022 Lineup",
+    "section": "",
+    "text": "In 2022, we added the Frameworks, Code For Dayton and Gem City ML / AI user groups to the family of user groups. Unfortunately, the Frameworks would drop off the roster in 2023.\nThe New to Web group migrated to New to Tech with it’s new leadership under Matt Alioto.\nOur family of user groups (in order of monthly occurrence) for the 2022 season:\n\n\n\nLogo\nUser Group\nOrganizer\nMeeting Time\n\n\n\n\n\nCode For Dayton A monthly user group meeting that follows the “hack night” format - a little discussion and show and tell up front, followed by an opportunity to break into groups to work on civic or community oriented projects.\nDavid Best\n1st Tuesday @6pm.\n\n\n\nNew to Tech - A public group that meets twice a month targeted at folks who are just starting to learn about software development, up through those already employed in the industry who are targeting their first promotion. Topics will be presented twice - on the 1st Tuesday of this month then again on the 3rd Tuesday of next month. Topics will be split between software development fundamentals & career guidance and there will be plenty of time for group discussion & live coding. Please bring your laptop!\nMatt Alioto\n1st & 3rd Tuesdays @6pm\n\n\n\nDayton Web Developers - general topics around being a modern web developer\nAllen May\n1st Wednesdays @6pm\n\n\n\nDayton Dynamic Languages - Casual discussions and demonstrations that lean towards Ruby/Rails, Python/Django, Scheme, Lisp & Smalltalk\nCatherine Devlin\n2nd Wednesdays @7pm\n\n\n\nDayton .NET Developers - Helping software developers, technical leads, and managers keep in touch with .NET-related technologies.\nHanen Alkhafaji\n2nd Thursdays @6pm\n\n\n\nGem City Game Developers - Exploring all topics around gaming and the gaming industry. We explore design, art, programming, digital and non-digital game topics.\nBrian Turner\n2nd Thursdays @5:30pm\n\n\n\nFrameworks A monthly meeting that explore a balance of both frontend web DESIGN topics & frontend web DEVELOPMENT topics.\nAllen May\n3rd Wednesdays @6pm\n\n\n\nGem City ML / AI For professionals who are curious about machine learning and meeting with like minded professionals.\nEvelyn J. Boettcher\n3rd Thursdays @6pm"
   },
   {
     "objectID": "code_of_conduct.html",
@@ -112,64 +182,50 @@
     "text": "Abide By The Law\nDo not participate in any illegal activities.\nWe do not allow the use of illegal drugs, illegal hacking, and anything that would put our community in jeopardy.\nSmoking, vaping, or chewing is not allowed in our space.\nDo not take other people’s physical property. Do not take other people’s intellectual property…but, we encourage you to contribute to open source.\nThe GemCity TECH Code of Conduct is a living document managed by our community. If you have any suggestions, please feel free to contact us."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "donate.html",
+    "href": "donate.html",
+    "title": "Donate",
     "section": "",
-    "text": "GemCity TECH’s mission is to grow the local industry and the community by providing a centralized destination for technical training, workshops and collaborating. We are the destination for those who are passionate about a wide range of technology topics and we provide a community space that encourages diversity, knowledge sharing, and collaboration through meetups, workshops, collaboration sessions and conferences.\nJoin us to nurture your passion for technology and be a part of shaping the future of the GemCity TECH community."
+    "text": "GemCityTECH is a 501(c)(3) nonprofit. You donation helps support or mission to grow Dayton’s industry and the community by providing a centralized destination for technical training, workshops and collaborations.\nDonate\n\n\nSupport the GemCity TECH mission by donating through our Give Lively fundraising:"
   },
   {
-    "objectID": "about.html#our-groups",
-    "href": "about.html#our-groups",
-    "title": "About",
-    "section": "Our Groups",
-    "text": "Our Groups\nAll user groups are free and open to the public.\n\n\n\nLogo\nUser Group\nOrganizer\nMeeting Time\n\n\n\n\n\nCode For Dayton A monthly user group meeting that follows the “hack night” format - a little discussion and show and tell up front, followed by an opportunity to break into groups to work on civic or community oriented projects.\nDavid Best\n1st Tuesday @6pm\n\n\n\nFormerly The Dayton Web Developers and .NET Developers user groups) - general topics around being a modern software, application, web or mobile developer\nHanen Alkhafaji & Allen May\n1st Wednesdays @6pm\n\n\n\nDayton Dynamic Languages - Casual discussions and demonstrations that lean towards Ruby/Rails, Python/Django, Scheme, Lisp & Smalltalk\nCatherine Devlin\n2nd Wednesdays @7pm\n\n\n\nGem City Game Developers - Exploring all topics around gaming and the gaming industry. We explore design, art, programming, digital and non-digital game topics.\nBrian Turner\n2nd Thursdays @5:30pm\n\n\n\nHack Dayton A monthly hacker meet-up focus on sharing knowledge and hands experiences around the offensive cybersecurity industry in the Dayton area.\nBrett Ewing\nThe last Friday @5pm\n\n\n\n\nMeeting Location\nCurrently, all meetings are at the Innovation Hub at the Downtown Dayton Arcade Building.\n\nThe Innovation Hub\n31 South Main Street Dayton, OH"
-  },
-  {
-    "objectID": "about.html#past-events",
-    "href": "about.html#past-events",
-    "title": "About",
-    "section": "Past Events",
-    "text": "Past Events\n\nVideos of recent meetings\nMay 3, 2023 Dayton Web Developers: Augmented Development with AI by Bryan Braun\n\nDecember 7, 2022 Dayton Web Developers: Exploring the value of JavaScript frameworks by Seth White \nNovember 17, 2021 Dayton Frontend Dev: Intro to Figma design and Next JS\nby Noelle Lansford & Bulent Tastan\n\nNovember 16, 2021 New to the Web - Getting Started with JSON Web Tokens\nby Davis Sanders \nNovember 10, 2021 The Dynamic Languages Group - Tutorial: Handling Large Data with Python Pandas\nby Evelyn Boettcher \nNovember 6, 2021 Dayton Web Developers: Visual Studio Code - The Swiss Army Knife of Editors\nby James Carr \nOctober 20, 2021 GemCity TECH: Building Decentralized Apps on Blockchain\nby Bulent Tastan \nSeptember 1, 2021 Dayton Web Developers - Sharing the history of the Dayton Web Developers and the plans for the future with GemCity TECH\nby Allen May"
-  },
-  {
-    "objectID": "current_sponsors.html",
-    "href": "current_sponsors.html",
-    "title": "Sponsors",
+    "objectID": "donate.html#donating-to-gemcity.tech",
+    "href": "donate.html#donating-to-gemcity.tech",
+    "title": "Donate",
     "section": "",
-    "text": "The Arcade Innovation Hub, powered by PNC Bank, was created to serve as the regional nexus for the new venture creation and social innovation that will lead to a more vibrant and inclusive regional economy.\n\n\nTechnology First is the technology member association for the region. For 25 years, Technology First has been committed to building a community of leading-edge IT professionals. We stand on three pillars: to connect, strengthen and champion technology in the Dayton region. Come shape the future of technology with us. #UniteDaytonTech"
+    "text": "GemCityTECH is a 501(c)(3) nonprofit. You donation helps support or mission to grow Dayton’s industry and the community by providing a centralized destination for technical training, workshops and collaborations.\nDonate\n\n\nSupport the GemCity TECH mission by donating through our Give Lively fundraising:"
   },
   {
-    "objectID": "history/2021.html",
-    "href": "history/2021.html",
-    "title": "GemCity TECH - History - 2021 Lineup",
+    "objectID": "GCT_board.html",
+    "href": "GCT_board.html",
+    "title": "GemCity.TECH Board Members",
     "section": "",
-    "text": "Our family of user groups (in order of monthly occurrence) for the 2021 season:\n\n\n\n\n\n\n\n\nUser Group\nOrganizer\nMeeting Time\n\n\n\n\nDayton Web Developers - general topics around being a modern web developer\nAllen May\n1st Wednesdays @6pm\n\n\nDayton Dynamic Languages - Casual discussions and demonstrations that lean towards Ruby/Rails, Python/Django, Scheme, Lisp & Smalltalk\nCatherine Devlin\n2nd Wednesdays @7pm\n\n\nDayton .NET Developers - Helping software developers, technical leads, and managers keep in touch with .NET-related technologys.\nHanen Alkhafaji\n2nd Thursdays @6pm\n\n\nGem City Game Developers - Exploring all topics around gaming and the gamining industry. We explore design, art, programming, digital and non-digital game topics.\nBrian Turner\n2nd Thursdays @5:30pm\n\n\nNew to The Web - Providing more entry level skill and career building training for those interested in the web or software development industry.\nDavis Sanders\n3rd Tuesdays @6pm"
+    "text": "GemCity.TECH is made up of three board members.\n\nAllen May\nHanen Alkhafaji\nEvelyn J. Boettcher"
   },
   {
-    "objectID": "history/2023.html",
-    "href": "history/2023.html",
-    "title": "GemCity TECH - History - 2023 Lineup",
+    "objectID": "GCT_board.html#our-board",
+    "href": "GCT_board.html#our-board",
+    "title": "GemCity.TECH Board Members",
     "section": "",
-    "text": "Also, we added the Gem City Mechatronics and Autonomous Miami Valley user groups. Sadly, these two groups would not carry on into 2024.\nOur family of user groups (in order of monthly occurrence) for the 2023 season:\n\n\n\nLogo\nUser Group\nOrganizer\nMeeting Time\n\n\n\n\n\nGem City Mechatronics A public community of electronics enthusiasts who gather for informative presentations, workshops, and hands-on lab sessions on topics like electronics, prototyping, circuitry, Raspberry Pi and Arduino projects.\nVibes\n1st Monday @6pm\n\n\n\nCode For Dayton A monthly user group meeting that follows the “hack night” format - a little discussion and show and tell up front, followed by an opportunity to break into groups to work on civic or community oriented projects.\nDavid Best\n1st Tuesday @6pm\n\n\n\nNew to Tech - A public group focused on folks who are just starting to learn about software development, up through those already employed in the industry who are targeting their first promotion. Topics will be split between software development fundamentals & career guidance and there will be plenty of time for group discussion & live coding. Please bring your laptop!\nMatt Alioto\n1st Thursday @6pm\n\n\n\nDayton Web Developers - general topics around being a modern web developer\nAllen May\n1st Wednesdays @6pm\n\n\n\nDayton Dynamic Languages - Casual discussions and demonstrations that lean towards Ruby/Rails, Python/Django, Scheme, Lisp & Smalltalk\nCatherine Devlin\n2nd Wednesdays @7pm\n\n\n\nAutonomous Miami Valley - The Autonomous MV user group is a community of individuals who share an interest in promoting and advancing the use of autonomous technologies. This group encourages the participation of researchers, developers, engineers, entrepreneurs, policymakers, and other stakeholders who are working to create and implement autonomous systems in various industries and applications. We also encourage anyone who is interested in learning more about autonomous systems and supporting technologies for business, academic or personal interest. All are welcome.\nRobert Blackthorn\n3rd Wednesdays @6pm\n\n\n\nDayton .NET Developers - Helping software developers, technical leads, and managers keep in touch with .NET-related technologies.\nHanen Alkhafaji\n2nd Tuesdays @6pm\n\n\n\nGem City Game Developers - Exploring all topics around gaming and the gaming industry. We explore design, art, programming, digital and non-digital game topics.\nBrian Turner\n2nd Thursdays @5:30pm\n\n\n\nGem City ML / AI For professionals who are curious about machine learning and meeting with like minded professionals.\nEvelyn J. Boettcher\n3rd Thursdays @6pm"
-  },
-  {
-    "objectID": "history/2022.html",
-    "href": "history/2022.html",
-    "title": "GemCity TECH - History - 2022 Lineup",
-    "section": "",
-    "text": "The New to Web group migrated to New to Tech with it’s new leadership under Matt Alioto.\nOur family of user groups (in order of monthly occurrence) for the 2022 season:\n\n\n\nLogo\nUser Group\nOrganizer\nMeeting Time\n\n\n\n\n\nCode For Dayton A monthly user group meeting that follows the “hack night” format - a little discussion and show and tell up front, followed by an opportunity to break into groups to work on civic or community oriented projects.\nDavid Best\n1st Tuesday @6pm.\n\n\n\nNew to Tech - A public group that meets twice a month targeted at folks who are just starting to learn about software development, up through those already employed in the industry who are targeting their first promotion. Topics will be presented twice - on the 1st Tuesday of this month then again on the 3rd Tuesday of next month. Topics will be split between software development fundamentals & career guidance and there will be plenty of time for group discussion & live coding. Please bring your laptop!\nMatt Alioto\n1st & 3rd Tuesdays @6pm\n\n\n\nDayton Web Developers - general topics around being a modern web developer\nAllen May\n1st Wednesdays @6pm\n\n\n\nDayton Dynamic Languages - Casual discussions and demonstrations that lean towards Ruby/Rails, Python/Django, Scheme, Lisp & Smalltalk\nCatherine Devlin\n2nd Wednesdays @7pm\n\n\n\nDayton .NET Developers - Helping software developers, technical leads, and managers keep in touch with .NET-related technologies.\nHanen Alkhafaji\n2nd Thursdays @6pm\n\n\n\nGem City Game Developers - Exploring all topics around gaming and the gaming industry. We explore design, art, programming, digital and non-digital game topics.\nBrian Turner\n2nd Thursdays @5:30pm\n\n\n\nFrameworks A monthly meeting that explore a balance of both frontend web DESIGN topics & frontend web DEVELOPMENT topics.\nAllen May\n3rd Wednesdays @6pm\n\n\n\nGem City ML / AI For professionals who are curious about machine learning and meeting with like minded professionals.\nEvelyn J. Boettcher\n3rd Thursdays @6pm"
+    "text": "GemCity.TECH is made up of three board members.\n\nAllen May\nHanen Alkhafaji\nEvelyn J. Boettcher"
   },
   {
     "objectID": "history/2025.html",
     "href": "history/2025.html",
     "title": "GemCity TECH - History - 2025 Lineup",
     "section": "",
-    "text": "Logo\nUser Group\nOrganizer\nMeeting Time\n\n\n\n\n\nCode For Dayton A monthly user group meeting that follows the “hack night” format - a little discussion and show and tell up front, followed by an opportunity to break into groups to work on civic or community oriented projects.\nDavid Best\n1st Tuesday @6pm\n\n\n\nFormerly The Dayton Web Developers and .NET Developers user groups) - general topics around being a modern software, application, web or mobile developer\nHanen Alkhafaji & Allen May\n1st Wednesdays @6pm\n\n\n\nDayton Dynamic Languages - Casual discussions and demonstrations that lean towards Ruby/Rails, Python/Django, Scheme, Lisp & Smalltalk\nCatherine Devlin\n2nd Wednesdays @7pm\n\n\n\nGem City Game Developers - Exploring all topics around gaming and the gaming industry. We explore design, art, programming, digital and non-digital game topics.\nBrian Turner\n2nd Thursdays @5:30pm\n\n\n\nHack Dayton A monthly hacker meet-up focus on sharing knowledge and hands experiences around the offensive cybersecurity industry in the Dayton area.\nBrett Ewing\nThe last Friday @5pm"
+    "text": "Our family of user groups (in order of monthly occurrence) for the 2023 season:\n\n\n\nLogo\nUser Group\nOrganizer\nMeeting Time\n\n\n\n\n\nCode For Dayton A monthly user group meeting that follows the “hack night” format - a little discussion and show and tell up front, followed by an opportunity to break into groups to work on civic or community oriented projects.\nDavid Best\n1st Tuesday @6pm\n\n\n\nFormerly The Dayton Web Developers and .NET Developers user groups) - general topics around being a modern software, application, web or mobile developer\nHanen Alkhafaji & Allen May\n1st Wednesdays @6pm\n\n\n\nDayton Dynamic Languages - Casual discussions and demonstrations that lean towards Ruby/Rails, Python/Django, Scheme, Lisp & Smalltalk\nCatherine Devlin\n2nd Wednesdays @7pm\n\n\n\nGem City Game Developers - Exploring all topics around gaming and the gaming industry. We explore design, art, programming, digital and non-digital game topics.\nBrian Turner\n2nd Thursdays @5:30pm\n\n\n\nHack Dayton A monthly hacker meet-up focus on sharing knowledge and hands experiences around the offensive cybersecurity industry in the Dayton area.\nBrett Ewing\nThe last Friday @5pm"
   },
   {
     "objectID": "history/2024.html",
     "href": "history/2024.html",
+    "title": "GemCity TECH - History - 2024 Lineup",
+    "section": "",
+    "text": "The Dayton Web Developers users groups have joined to focus on the broader topics related to software engineering, application development, web development and mobile development.\nWe will still meet on the same nights (the 1st Wednesday and the 2nd Thursday) but both we will not stay in the borders of web or .NET topics for either night.\nThis new structure will be organized by Hanen Alkhafaji, James, Carr & Allen May\nCognitive Think Tank has joined the GemCity TECH family and will be meeting the 2nd Wednesday of the month online only. Welcome to the leadership team Layla Akilan & Damon Troncone."
+  },
+  {
+    "objectID": "history/2024.html#what-changed-in-2024",
+    "href": "history/2024.html#what-changed-in-2024",
     "title": "GemCity TECH - History - 2024 Lineup",
     "section": "",
     "text": "The Dayton Web Developers users groups have joined to focus on the broader topics related to software engineering, application development, web development and mobile development.\nWe will still meet on the same nights (the 1st Wednesday and the 2nd Thursday) but both we will not stay in the borders of web or .NET topics for either night.\nThis new structure will be organized by Hanen Alkhafaji, James, Carr & Allen May\nCognitive Think Tank has joined the GemCity TECH family and will be meeting the 2nd Wednesday of the month online only. Welcome to the leadership team Layla Akilan & Damon Troncone."
@@ -182,15 +238,29 @@
     "text": "Our family of user groups:\nAll user groups are free and open to the public.\n\n\n\nLogo\nUser Group\nOrganizer\nMeeting Time\n\n\n\n\n\nCode For Dayton A monthly user group meeting that follows the “hack night” format - a little discussion and show and tell up front, followed by an opportunity to break into groups to work on civic or community oriented projects.\nDavid Best\n1st Tuesday @6pm\n\n\n\nFormerly The Dayton Web Developers and .NET Developers user groups) - general topics around being a modern software, application, web or mobile developer\nHanen Alkhafaji & Allen May\n1st Wednesdays and 2nd Tuesdays @6pm\n\n\n\nNew to Tech - A public group focused on folks who are just starting to learn about software development, up through those already employed in the industry who are targeting their first promotion. Topics will be split between software development fundamentals & career guidance and there will be plenty of time for group discussion & live coding. Please bring your laptop!\nMatt Alioto\n1st Thursday @6pm\n\n\n\nCognitive Think Tank (VIRTUAL ONLY) - - Our Mission is to get people thinking, share diverse perspectives, generate rich discussion in our community about the tools and techniques we are all using, and make connections with like minded professionals! (This group meets online)\nLayla Akilan & Damon Troncone\n2nd Wednesdays @5pm\n\n\n\nDayton Dynamic Languages - Casual discussions and demonstrations that lean towards Ruby/Rails, Python/Django, Scheme, Lisp & Smalltalk\nCatherine Devlin\n2nd Wednesdays @7pm\n\n\n\nGem City Game Developers - Exploring all topics around gaming and the gaming industry. We explore design, art, programming, digital and non-digital game topics.\nBrian Turner\n2nd Thursdays @5:30pm\n\n\n\nGem City ML / AI For professionals who are curious about machine learning and meeting with like minded professionals.\nEvelyn J. Boettcher\n3rd Thursdays @6pm\n\n\n\nHack Dayton A monthly hacker meet-up focus on sharing knowledge and hands experiences around the offensive cybersecurity industry in the Dayton area.\nBrett Ewing\nThe last Friday @5pm"
   },
   {
-    "objectID": "donate.html",
-    "href": "donate.html",
-    "title": "Donate",
+    "objectID": "current_sponsors.html",
+    "href": "current_sponsors.html",
+    "title": "Sponsors",
     "section": "",
-    "text": "GemCityTECH is a 501(c)(3) nonprofit. You donation helps support or mission to grow Dayton’s industry and the community by providing a centralized destination for technical training, workshops and collaborations.\nDonate\n\n\nSupport the GemCity TECH mission by donating through our Give Lively fundraising:"
+    "text": "The Arcade Innovation Hub, powered by PNC Bank, was created to serve as the regional nexus for the new venture creation and social innovation that will lead to a more vibrant and inclusive regional economy.\n\n\nTechnology First is the technology member association for the region. For 25 years, Technology First has been committed to building a community of leading-edge IT professionals. We stand on three pillars: to connect, strengthen and champion technology in the Dayton region. Come shape the future of technology with us. #UniteDaytonTech"
+  },
+  {
+    "objectID": "current_sponsors.html#our-sponsors-and-partners",
+    "href": "current_sponsors.html#our-sponsors-and-partners",
+    "title": "Sponsors",
+    "section": "",
+    "text": "The Arcade Innovation Hub, powered by PNC Bank, was created to serve as the regional nexus for the new venture creation and social innovation that will lead to a more vibrant and inclusive regional economy.\n\n\nTechnology First is the technology member association for the region. For 25 years, Technology First has been committed to building a community of leading-edge IT professionals. We stand on three pillars: to connect, strengthen and champion technology in the Dayton region. Come shape the future of technology with us. #UniteDaytonTech"
   },
   {
     "objectID": "opportunities.html",
     "href": "opportunities.html",
+    "title": "Opportunities",
+    "section": "",
+    "text": "A list of local businesses that would be of interest for a new job in tech. This is not an all inclussive list.\nNor does GemCity.TECH endorse any of the companies listed below."
+  },
+  {
+    "objectID": "opportunities.html#southwest-ohio-hiring-tech-companies-",
+    "href": "opportunities.html#southwest-ohio-hiring-tech-companies-",
     "title": "Opportunities",
     "section": "",
     "text": "A list of local businesses that would be of interest for a new job in tech. This is not an all inclussive list.\nNor does GemCity.TECH endorse any of the companies listed below."
@@ -208,13 +278,6 @@
     "title": "Opportunities",
     "section": "Cincinnati",
     "text": "Cincinnati\n\nCallibrity\n\nWebsite: https://www.callibrity.com/\nJob listing: https://www.callibrity.com/careers/offices?hsCtaTracking=c011a88b-66f9-41db-b3b9-901195f706c4%7C4e41b175-c948-40bd-878f-b325810613b3\nLinkedIn: https://www.linkedin.com/company/callibrity/\n\n\n\nLaunch Scout (formerly Gaslight)\n\nWebsite: https://launchscout.com/\nJob listing: https://launchscout.com/careers\nLinkedIn: https://www.linkedin.com/company/gaslight/"
-  },
-  {
-    "objectID": "GCT_board.html",
-    "href": "GCT_board.html",
-    "title": "GemCity.TECH Board Members",
-    "section": "",
-    "text": "GemCity.TECH is made up of three board members.\n\nAllen May\nHanen Alkhafaji\nEvelyn J. Boettcher"
   },
   {
     "objectID": "opening_remarks.html#gemcity.tech",
