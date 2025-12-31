@@ -13,19 +13,35 @@ com·mu·ni·ty
 
 ## Save the Date
 
-We are hosting a mini conference on April 12th, 2025 from 10am till 3pm at The Hub. [**Register Here**](https://www.meetup.com/gem-city-tech/events/306143883/?eventOrigin=home_next_event_you_are_hosting)
+* [Game Night](https://www.meetup.com/gem-city-tech/events/312652711): Feb 25th, 2026
+* [Mini Conference](https://www.meetup.com/gem-city-tech/events/312652762): April 25th, 2026
+* [Summer Picnic](https://www.meetup.com/gem-city-tech/events/312652809/?slug=gem-city-tech&eventId=312652809): July 25th, 2026
+* [Holiday Potlock](https://www.meetup.com/gem-city-tech/events/312652850/): Dec. 3rd, 2026
 
 
-![](./img/gct_banner_ex10.png)
+We are hosting a mini conference on April 25th, 2065 from 10am till 3pm at The Hub. [**Register Here**](https://www.meetup.com/gem-city-tech/events/312652762)
+
+We are looking for speakers on
+
+* Product ownership
+* Dev Opts
+* Test and Delivery
+* Side Hustles
+ 
+
+
+![](./img/Gemini_Generated_Image_60aa1e60aa1e60aa%20(1).png)
 
 
 
 
-## What changed in 2025?
+## What changed in 2026?
 
-- Dayton Web Developers, GemCity ML and .NET Develoipers user group has been combined to a single event called **Tech Roulette Night**.  
+- Leadership:
+  * Hanen Alkhafaji: President
+  * Evelyn J. Boettcher: Vice President
 
-- STIR Treck, official sponsers: [Friday May 2nd 2025](https://stirtrek.com/sponsors/)
+
 
 ## Our family of user groups:
 
@@ -35,7 +51,11 @@ All user groups are free and open to the public.
 
 ### Meeting Location
 
-Currently, all meetings are at the Innovation Hub at the Downtown Dayton Arcade Building.
+Currently, almost meetings are at the Innovation Hub at the Downtown Dayton Arcade Building.
+Exception
+
+* Summer picnic.  The picnic is held at a local park.
+* Winter Game night. Local bar
 
 #### The Innovation Hub
 31 South Main Street Dayton, OH

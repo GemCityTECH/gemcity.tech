@@ -4,6 +4,4 @@ The Arcade Innovation Hub, powered by PNC Bank, was created to serve as the regi
 
 <br> 
 
-<a href="https://www.technologyfirst.org/"><img src="img/sponsors/TechnologyFirst.png" alt="Technology First logo with link to Technology First website" style="width: 15vw; margin-right: 20px;"></a>
-
-Technology First is the technology member association for the region. For 25 years, Technology First has been committed to building a community of leading-edge IT professionals. We stand on three pillars: to connect, strengthen and champion technology in the Dayton region. Come shape the future of technology with us. #UniteDaytonTech
+Please contact GemCity.TECH leadership about sponsoring.

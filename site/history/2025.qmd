@@ -3,3 +3,8 @@ title: "2025"
 ---
 
 {{< include _markdown/2025Lineup.md >}}
+
+### Mini Conferences
+![Spring Mini Conference](../img/gct_banner_ex10.png)
+
+![Fall Mini Conference](../img/fall_2025.avif)
