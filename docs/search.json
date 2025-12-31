@@ -60,14 +60,7 @@
     "href": "sponsor.html#a-platform-for-workshops-conferences-and-ad-hoc-events",
     "title": "Sponsoring",
     "section": "A Platform for Workshops, Conferences and Ad-Hoc Events",
-    "text": "A Platform for Workshops, Conferences and Ad-Hoc Events\nGemCity TECH provides a centralized destination for a variety of technical events beyond monthly user groups, like Django Girls workshop. This platform also allows GemCity TECH additional opportunities to partner with sponsors for events that fall outside the monthly user group meeting events. We provide workshops, conferences and ad-hoc events when there is community interest.\n\nAll our events are free to users and are designed to foster collaboration, knowledge sharing, and diversity within the local technology community.\nWe invite you to join us in our mission to create a thriving and supportive technology community in the Dayton and Gem City region. Thank you for considering GemCity TECH as a potential partner. We look forward to exploring this opportunity further with you."
-  },
-  {
-    "objectID": "sponsor.html#annual-sponsoring-levels-to-ensure-our-success",
-    "href": "sponsor.html#annual-sponsoring-levels-to-ensure-our-success",
-    "title": "Sponsoring",
-    "section": "Annual sponsoring levels to ensure our success",
-    "text": "Annual sponsoring levels to ensure our success\nSponsoring GemCity TECH gives your company a terrific marketing channel to reach a group of highly motivated technologists. You’ll also be contributing to helping the region’s technology community continue to grow and improve their skills. GemCity TECH is a 501(c)(3) nonprofit organization; your sponsorship contributions can be submitted for tax deductions under IRC Section 170.\n\nPLATINUM - ALL USER GROUPS\n\nAnnual Sponsorship – Cost: $4,500 per year\n\nLogo and website link displayed at the beginning of each meetup.\nLogo and link added to our website’s Sponsors page along with a 100 word description.\n100 words or less including your company website link included in notifications to all GemCity TECH members.\nWeekly posting of job opportunities posted to our Discord Job channel.\n\n\n\nEXCLUSIVE WITH THIS PACKAGE\n\nTwo invitations to attend an event of your choice to give a five to ten minute presentation to our members about your company, its products, and services prior to the planned meeting. (Only available in this package)\nYour business logo embedded into the GemCity TECH meetup page banner.\n\n\n\n\nGOLD - ALL USER GROUPS\n\nAnnual Sponsorship – Cost: $2,500 per year\nLogo and website link displayed at the beginning of each meetup.\nName and logo included in notifications to all GemCity TECH members.\nLogo and link added to our website’s Sponsors page along with a 100 word description.\nMonthly posting of job opportunities posted to our Discord Job channel.\n\n\n\nSILVER - ALL USER GROUPS\n\nAnnual Sponsorship – Cost: $1,250 per year\n\nLogo and website link displayed at the beginning of each meetup.\nName and logo included in notifications to all GemCity TECH members.\nLogo and link added to our website’s Sponsors page\n\n\n\nINDIVIDUAL (individual or company &lt; 3 people only)\n\nAnnual Sponsorship – Cost: $250 per year\nName added at beginning of a given group meetup (optional)\nName added to our website’s Sponsors page (optional)\n\n\nThese sponsorships only apply to regularly scheduled GemCity TECH meetings, not special events.\nFor further information on GemCity TECH, please use the following links to learn more about us.\n\nWebsite: https://www.gemcity.tech\nMeetup: https://www.meetup.com/gem-city-tech\nDiscord: https://discord.gg/nyDtEytbt6\nLinkedIn: https://www.linkedin.com/company/gemcitytech\n\nThank you in advance for considering supporting GemCity TECH!\nPlease make a check payable to GemCity TECH."
+    "text": "A Platform for Workshops, Conferences and Ad-Hoc Events\nGemCity TECH provides a centralized destination for a variety of technical events beyond monthly user groups, like Django Girls workshop. This platform also allows GemCity TECH additional opportunities to partner with sponsors for events that fall outside the monthly user group meeting events. We provide workshops, conferences and ad-hoc events when there is community interest.\n\nAll our events are free to users and are designed to foster collaboration, knowledge sharing, and diversity within the local technology community.\nWe invite you to join us in our mission to create a thriving and supportive technology community in the Dayton and Gem City region. Thank you for considering GemCity TECH as a potential partner. We look forward to exploring this opportunity further with you.\nThank you in advance for considering supporting GemCity TECH!"
   },
   {
     "objectID": "index.html",
@@ -89,6 +82,13 @@
     "title": "GemCity.TECH",
     "section": "Save the Date",
     "text": "Save the Date\n\nGame Night: Feb 25th, 2026\n\n\nMini Conference: April 25th, 2026\n\n\nSummer Picnic: July 25th, 2026\n\n\nHoliday Potlock: Dec. 3rd, 2026"
+  },
+  {
+    "objectID": "index.html#mini-conference-april-25th-2026-1",
+    "href": "index.html#mini-conference-april-25th-2026-1",
+    "title": "GemCity.TECH",
+    "section": "Mini Conference: April 25th, 2026",
+    "text": "Mini Conference: April 25th, 2026\nRegister Here\nJoin GemCITY.TECH for a comprehensive mini conference covering the entire software development lifecycle! Whether you’re a seasoned professional or just starting your tech journey, this event will provide valuable insights into every stage of building great software.\n\nWhat We’ll Cover\n\n🎯 Product Ownership Understanding the vision, prioritizing features, and delivering value to users.\n👥 Teaming Because we work with people too! Learn effective collaboration, communication, and building high-performing teams.\n🎨 UX & Accessibility Designing inclusive, user-friendly experiences that work for everyone. ⚙️ DevOps Streamlining deployment, automation, and keeping systems running smoothly.\n✅ Test & Delivery Quality assurance, testing strategies, and getting your product into users’ hands.\n💡 Side Hustles Turning your tech skills into additional opportunities and passion projects.\n\nThis is a fantastic opportunity to connect with the Dayton tech community, learn from experienced practitioners, and gain a holistic view of modern software development. More details on speakers, schedule, and registration coming soon!\nSee you on April 25th! 🚀"
   },
   {
     "objectID": "index.html#what-changed-in-2026",
@@ -334,19 +334,5 @@
     "title": "Welcome",
     "section": "Now, for our first speaker…",
     "text": "Now, for our first speaker…\n\n\n\nGemCity.TECH"
-  },
-  {
-    "objectID": "index.html#mini-conference-2026",
-    "href": "index.html#mini-conference-2026",
-    "title": "GemCity.TECH",
-    "section": "Mini Conference: 2026",
-    "text": "Mini Conference: 2026\nRegister Here\nJoin GemCITY.TECH for a comprehensive mini conference covering the entire software development lifecycle! Whether you’re a seasoned professional or just starting your tech journey, this event will provide valuable insights into every stage of building great software.\n\nWhat We’ll Cover\n\n🎯 Product Ownership Understanding the vision, prioritizing features, and delivering value to users.\n👥 Teaming Because we work with people too! Learn effective collaboration, communication, and building high-performing teams.\n🎨 UX & Accessibility Designing inclusive, user-friendly experiences that work for everyone. ⚙️ DevOps Streamlining deployment, automation, and keeping systems running smoothly.\n✅ Test & Delivery Quality assurance, testing strategies, and getting your product into users’ hands.\n💡 Side Hustles Turning your tech skills into additional opportunities and passion projects.\n\nThis is a fantastic opportunity to connect with the Dayton tech community, learn from experienced practitioners, and gain a holistic view of modern software development. More details on speakers, schedule, and registration coming soon!\nSee you on April 25th! 🚀"
-  },
-  {
-    "objectID": "index.html#mini-conference-april-25th-2026-1",
-    "href": "index.html#mini-conference-april-25th-2026-1",
-    "title": "GemCity.TECH",
-    "section": "Mini Conference: April 25th, 2026",
-    "text": "Mini Conference: April 25th, 2026\nRegister Here\nJoin GemCITY.TECH for a comprehensive mini conference covering the entire software development lifecycle! Whether you’re a seasoned professional or just starting your tech journey, this event will provide valuable insights into every stage of building great software.\n\nWhat We’ll Cover\n\n🎯 Product Ownership Understanding the vision, prioritizing features, and delivering value to users.\n👥 Teaming Because we work with people too! Learn effective collaboration, communication, and building high-performing teams.\n🎨 UX & Accessibility Designing inclusive, user-friendly experiences that work for everyone. ⚙️ DevOps Streamlining deployment, automation, and keeping systems running smoothly.\n✅ Test & Delivery Quality assurance, testing strategies, and getting your product into users’ hands.\n💡 Side Hustles Turning your tech skills into additional opportunities and passion projects.\n\nThis is a fantastic opportunity to connect with the Dayton tech community, learn from experienced practitioners, and gain a holistic view of modern software development. More details on speakers, schedule, and registration coming soon!\nSee you on April 25th! 🚀"
   }
 ]
