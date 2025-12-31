@@ -32,3 +32,78 @@ We invite you to join us in our mission to create a thriving and supportive tech
 Thank you in advance for considering supporting GemCity TECH!  
 
 
+<hr>
+
+### Annual sponsoring levels to ensure our success
+
+Sponsoring GemCity TECH gives your company a terrific marketing channel to reach a group of highly motivated technologists. You’ll also be contributing to helping the region’s technology community continue to grow and improve their skills. GemCity TECH is a 501(c)(3) nonprofit organization; your sponsorship contributions can be submitted for tax deductions under IRC Section 170.
+
+### ANNUAL PARTNER
+
+Cost: $1,000 per year
+Make free events possible all year  
+  
+#### Supports:
+
+* Larger events such as workshops, the GemCity TECH BBQ, and the annual *Mini-Conference
+* Snacks and beverages for monthly meetup events
+* Meetup platform costs
+* Website and domain expenses
+
+#### Recognition includes:
+
+* Logo on the meetup page for all monthly events  and corresponding social media announcements (LinkedIn, Discord, etc…)
+* Prominent logo on in-person event signage and welcome presentation
+* Prominent logo and link added to our website’s Sponsors page along with a 100 word description.
+* Social Media appreciation post twice a year. 
+
+### EVENT SPONSOR
+
+Cost: $500 per year  
+Fuel our monthly meetups  
+  
+#### Supports:
+
+* Snacks and beverages for monthly meetup events
+* Meetup platform costs
+* Website and domain expenses
+
+#### Recognition includes:
+
+* Logo on the meetup page for all monthly events  and corresponding social media announcements (LinkedIn, Discord, etc…)
+* Medium logo on in-person event signage and welcome presentation
+* Medium logo and link added to our website’s Sponsors page along with a 100 word description.
+* Social Media appreciation post at time of sponsorship. 
+
+### COMMUNITY SUPPORTER
+
+Cost: $150 per year
+Help keep our core operations running  
+  
+#### Supports:
+
+* Meetup platform costs
+* Website and domain expenses
+
+#### Recognition includes:
+
+* Small logo on in-person event signage and welcome presentation
+* Small logo and link added to our website’s Sponsors page along with a 100 word description.
+* Social Media appreciation post at time of sponsorship. 
+
+### MINI-CONFERENCE SPONSOR
+
+ Cost: $250 per year
+Support deeper connection and learning at our most attended event  
+  
+#### Supports: 
+
+* Snacks and beverages for the annual Mini-Conference
+* Operational costs of the annual Mini-Conference 
+
+#### Recognition includes:
+
+* Logo on the Mini-Conference meetup page  and corresponding social media announcements (LinkedIn, Discord, etc…)
+* Prominent logo on in-person Mini-Conference signage and welcome presentation
+* Prominent logo and link added to our website’s Sponsors page along with a 100 word description. 
+* Optional table or sponsor presence during the event.
