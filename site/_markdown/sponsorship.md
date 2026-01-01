@@ -52,10 +52,11 @@ Make free events possible all year
 
 #### Recognition includes:
 
-* Logo on the meetup page for all monthly events  and corresponding social media announcements (LinkedIn, Discord, etc…)
+* ‘Sponsored by’ wording in the description on the meetup page for all recurring monthly events as well as larger yearly events and corresponding social media announcements (LinkedIn, Discord, etc…)
 * Prominent logo on in-person event signage and welcome presentation
 * Prominent logo and link added to our website’s Sponsors page along with a 100 word description.
 * Social Media appreciation post twice a year. 
+* Optional table or sponsor presence during the Mini-Conference.
 
 ### EVENT SPONSOR
 
@@ -70,10 +71,28 @@ Fuel our monthly meetups
 
 #### Recognition includes:
 
-* Logo on the meetup page for all monthly events  and corresponding social media announcements (LinkedIn, Discord, etc…)
-* Medium logo on in-person event signage and welcome presentation
-* Medium logo and link added to our website’s Sponsors page along with a 100 word description.
+* ‘Sponsored by’ wording in the description on the meetup page for all monthly events  and corresponding social media announcements (LinkedIn, Discord, etc…)
+* Logo on in-person event signage and welcome presentation
+* Logo and link added to our website’s Sponsors page along with a 100 word description.  
 * Social Media appreciation post at time of sponsorship. 
+
+
+### MINI-CONFERENCE SPONSOR
+
+Cost: $250 per year
+Support deeper connection and learning at our most attended event  
+  
+#### Supports: 
+
+* Snacks and beverages for the annual Mini-Conference
+* Operational costs of the annual Mini-Conference 
+
+#### Recognition includes:
+
+* ‘Sponsored by’ wording in the description on the Mini-Conference meetup page and corresponding social media announcements (LinkedIn, Discord, etc…)
+* Logo on in-person Mini-Conference signage and welcome presentation
+* Logo and link added to our website’s Sponsors page along with a 100 word description.
+
 
 ### COMMUNITY SUPPORTER
 
@@ -90,20 +109,3 @@ Help keep our core operations running
 * Small logo on in-person event signage and welcome presentation
 * Small logo and link added to our website’s Sponsors page along with a 100 word description.
 * Social Media appreciation post at time of sponsorship. 
-
-### MINI-CONFERENCE SPONSOR
-
- Cost: $250 per year
-Support deeper connection and learning at our most attended event  
-  
-#### Supports: 
-
-* Snacks and beverages for the annual Mini-Conference
-* Operational costs of the annual Mini-Conference 
-
-#### Recognition includes:
-
-* Logo on the Mini-Conference meetup page  and corresponding social media announcements (LinkedIn, Discord, etc…)
-* Prominent logo on in-person Mini-Conference signage and welcome presentation
-* Prominent logo and link added to our website’s Sponsors page along with a 100 word description. 
-* Optional table or sponsor presence during the event.
