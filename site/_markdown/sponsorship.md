@@ -40,8 +40,8 @@ Sponsoring GemCity TECH gives your company a terrific marketing channel to reach
 
 ### ANNUAL PARTNER
 
-Cost: $1,000 per year
-Make free events possible all year  
+Cost: $1,000 per year  
+Make free events possible all year   
   
 #### Supports:
 
@@ -79,8 +79,8 @@ Fuel our monthly meetups
 
 ### MINI-CONFERENCE SPONSOR
 
-Cost: $250 per year
-Support deeper connection and learning at our most attended event  
+Cost: $250 per year  
+Support deeper connection and learning at our most attended event   
   
 #### Supports: 
 
@@ -96,7 +96,7 @@ Support deeper connection and learning at our most attended event
 
 ### COMMUNITY SUPPORTER
 
-Cost: $150 per year
+Cost: $150 per year  
 Help keep our core operations running  
   
 #### Supports:
