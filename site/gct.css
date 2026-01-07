@@ -137,3 +137,7 @@ input[type="checkbox"]:disabled {
   top: 0px;
  
 }
+
+.navbar-collapse.collapse.show{
+  background-color:#698751
+}
