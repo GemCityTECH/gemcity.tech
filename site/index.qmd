@@ -26,18 +26,19 @@ Join GemCITY.TECH for a comprehensive mini conference covering the entire softwa
 
 ### What We'll Cover
 
-* 🎯 Product Ownership
-Understanding the vision, prioritizing features, and delivering value to users.
-* 👥 Teaming
-Because we work with people too! Learn effective collaboration, communication, and building high-performing teams.
-* 🎨 UX & Accessibility
-Designing inclusive, user-friendly experiences that work for everyone.
-⚙️ DevOps
-Streamlining deployment, automation, and keeping systems running smoothly.
-* ✅ Test & Delivery
-Quality assurance, testing strategies, and getting your product into users' hands.
-* 💡 Side Hustles
-Turning your tech skills into additional opportunities and passion projects.
+* 🎯 **Product Ownership**  
+  Understanding the vision, prioritizing features, and delivering value to users.
+* 👥 **Teaming**: Resolving the I in Team, Speaker: Evelyn J. Boettcher  
+  How does one work well within a team or build a new team?  The initial step is being able to see the I's in the team. We need to work effectively in a team and understand the true goals of our customers. However, one can not do that without knowing ourselves, our limits, and how people interpret the world.  This is where being able to see the I in the team, allows one to get 
+big things done.
+* 🎨 **UX & Accessibility**  
+  Designing inclusive, user-friendly experiences that work for everyone.  
+* ⚙️ **DevOps**  
+  Streamlining deployment, automation, and keeping systems running smoothly.
+* ✅ **Test & Delivery**  
+  Quality assurance, testing strategies, and getting your product into users' hands.
+* 💡 **Side Hustles**  
+  Turning your tech skills into additional opportunities and passion projects.
 
 This is a fantastic opportunity to connect with the Dayton tech community, learn from experienced practitioners, and gain a holistic view of modern software development.
 More details on speakers, schedule, and registration coming soon!  
