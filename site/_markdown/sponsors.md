@@ -29,6 +29,6 @@ Astero Engineering is a Dayton-based engineering firm specializing in mechanical
 ::::
 <br> 
 <hr>
-We’re honored to have The Arcade Innovation Hub and Astero Engineering as a sponsors of GemCity TECH. Their support helps us continue offering free events, educational opportunities, and community gatherings for tech professionals and enthusiasts throughout the region.  
+We’re honored to have the Arcade Innovation Hub and Astero Engineering as sponsors of GemCity TECH. Their support helps us continue offering free events, educational opportunities, and community gatherings for tech professionals and enthusiasts throughout the region.  
   
 Please contact GemCity.TECH leadership about sponsoring.
