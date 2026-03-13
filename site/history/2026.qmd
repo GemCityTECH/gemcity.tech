@@ -1,0 +1,14 @@
+---
+title: "2026"
+---
+
+{{< include _markdown/2026Lineup.md >}}
+
+### Mini Conferences
+![Spring Mini Conference](../img/GemCityTechMiniConference_April2026.png)
+
+## Events
+### [Game Night](https://www.meetup.com/gem-city-tech/events/312652711): Feb 25th, 2026
+### [Mini Conference](https://www.meetup.com/gem-city-tech/events/312652762): April 25th, 2026
+### [Summer Picnic](https://www.meetup.com/gem-city-tech/events/312652809/?slug=gem-city-tech&eventId=312652809): July 25th, 2026
+### [Holiday Potlock](https://www.meetup.com/gem-city-tech/events/312652850/): Dec. 3rd, 2026
