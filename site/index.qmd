@@ -13,38 +13,11 @@ com·mu·ni·ty
 
 ## Save the Date
 
-### [Mini Conference](https://www.meetup.com/gem-city-tech/events/312652762): April 25th, 2026
+![Summer Picnic](./img/2026_picnic.png)
+
 ### [Summer Picnic](https://www.meetup.com/gem-city-tech/events/312652809/?slug=gem-city-tech&eventId=312652809): July 25th, 2026
 ### [Holiday Potlock](https://www.meetup.com/gem-city-tech/events/312652850/): Dec. 3rd, 2026
 
-## Mini Conference: April 25th, 2026
-
-[**Register Here**](https://www.meetup.com/gem-city-tech/events/312652762)
-
-Join GemCITY.TECH for a comprehensive mini conference covering the entire software development lifecycle! Whether you're a seasoned professional or just starting your tech journey, this event will provide valuable insights into every stage of building great software.
-
-### What We'll Cover
-
-* 🎯 **Product Ownership**  Taylor Luehrs, PMP
-  * What the Customer Actually Meant: Product Ownership and Translating Requirements Into Real Software
-* 👥 **Teaming**: Evelyn J. Boettcher
-  * Resolving the I in Team,  
-* Lunch provided by Astero Engineering
-* 🎨 **UX & Accessibility**  Ren Estep
-  * Don't Get Stuck in a Toxic Situationship:
-Building Web Experiences for Every Context  
-* ⚙️ **DevOps**  Sunny Kolattukody
-  * Dry in the Age of AI
-* 💡 **Side Hustles**  
-  * Turning your tech skills into additional opportunities and passion projects.
-
-This is a fantastic opportunity to connect with the Dayton tech community, learn from experienced practitioners, and gain a holistic view of modern software development.
-More details on speakers, schedule, and registration coming soon!  
-
-See you on April 25th! 🚀
- 
-
-![Speakers for Mini Conference](./img/GemCityTechMiniConference_April2026.png)
 
 
 
