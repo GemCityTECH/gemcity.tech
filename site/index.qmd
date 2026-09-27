@@ -13,9 +13,9 @@ com·mu·ni·ty
 
 ## Save the Date
 
-![Summer Picnic](./img/2026_picnic.png)
+![Hacktoberfest](./img/Hacktoberfest.png)
 
-### [Summer Picnic](https://www.meetup.com/gem-city-tech/events/312652809/?slug=gem-city-tech&eventId=312652809): July 25th, 2026
+### [Hacktoberfest](https://hacktoberfest.com/fests/?q=dayton&fest=01a04aa9-ad04-25f3-0814-96d13c4602a8): Oct. 6th, 2026
 ### [Holiday Potlock](https://www.meetup.com/gem-city-tech/events/312652850/): Dec. 3rd, 2026
 
 
